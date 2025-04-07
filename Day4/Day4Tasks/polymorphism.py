@@ -1,6 +1,6 @@
 class Circle:
     def area(self):
-        print("Area = π × r²")
+        print("Area = π × r X r")
 
 class Rectangle:
     def area(self):
@@ -8,7 +8,7 @@ class Rectangle:
 
 class Triangle:
     def area(self):
-        print("Area = ½ × base × height")
+        print("Area = 0.5 × bAase × height")
 
 def print_area(shape):
     shape.area()

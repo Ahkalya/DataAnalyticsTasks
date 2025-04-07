@@ -47,7 +47,6 @@ class Cat(Animal):
 
 d = Dog()
 c = Cat()
-
 d.barks()
 d.sound()
 c.meow()
@@ -55,7 +54,7 @@ c.sound()
 
 # Hybrid Inheritance
 
-class A:
+class A():
     def method_a(self):
         print("Method from A")
 
@@ -63,7 +62,7 @@ class B(A):
     def method_b(self):
         print("Method from B")
 
-class C:
+class C():
     def method_c(self):
         print("Method from C")
 
@@ -77,5 +76,18 @@ d.method_b()
 d.method_c()
 d.method_d()
 
+# Multiple Inheritance
 
+class Mammals():
+    def land(self):
+        print("I can live in land")
+class Aquatic():
+    def Water(self):
+        print("I can live in water")
+class amphibians(Mammals, Aquatic):
+    pass
+
+Amphibians = amphibians()
+Amphibians.land()
+Amphibians.Water()
         
