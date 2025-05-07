@@ -1,0 +1,11 @@
+Pid,product_name,price,qty,amount,isinstock
+101,Pepsi,75,7,525,1
+106,Good-day,90,6,540,1
+108,Pepsi,75,7,525,1
+112,Appy,60,10,600,0
+113,Good-day,90,8,720,1
+115,Pepsi,75,7,525,1
+122,Pepsi,75,7,525,1
+126,Appy,60,10,600,0
+127,Good-day,90,6,540,0
+129,Pepsi,75,9,675,1
