@@ -1,0 +1,5 @@
+ {
+     "BigQuery Schema": [ { "name": "region", "type": "STRING" }, 
+                          { "name": "sales", "type": "INTEGER" }
+                        ] 
+}
