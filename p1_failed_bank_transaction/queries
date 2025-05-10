@@ -1,0 +1,71 @@
+
+--Total Failed Transactions by City
+SELECT city, COUNT(*) AS failed_count
+FROM EXTERNAL_QUERY("projects/basics-457710/locations/us/connections/Failed_Transactiond", "SELECT * FROM failed_transactions;")
+GROUP BY city
+ORDER BY failed_count DESC;
+
+--Total Failed Transactions by Branch
+SELECT 
+  branch_name, 
+  COUNT(*) AS failed_transactions
+FROM EXTERNAL_QUERY("projects/basics-457710/locations/us/connections/Failed_Transactiond", "SELECT * FROM failed_transactions;")
+GROUP BY branch_name
+ORDER BY failed_transactions DESC;
+
+--Count of success and failure transactions in each branch
+SELECT branch_id, branch_name, city,
+  COUNTIF(LOWER(status) = 'success') AS success_count,
+  COUNTIF(LOWER(status) = 'failure') AS failure_count,
+  COUNT(*) AS total_transactions
+FROM EXTERNAL_QUERY("projects/basics-457710/locations/us/connections/Failed_Transactiond", "SELECT * FROM failed_transactions;")
+GROUP BY branch_id, branch_name, city
+ORDER BY failure_count DESC;
+
+--Failures by Day of the Week
+SELECT 
+  FORMAT_DATE('%A', transaction_date) AS day_of_week,
+  COUNT(*) AS failure_count
+FROM EXTERNAL_QUERY("projects/basics-457710/locations/us/connections/Failed_Transactiond", "SELECT * FROM failed_transactions;")
+GROUP BY day_of_week
+ORDER BY failure_count DESC;
+
+--Failed Transactions by Reason
+SELECT 
+  error_message, 
+  COUNT(*) AS failure_count
+FROM EXTERNAL_QUERY("projects/basics-457710/locations/us/connections/Failed_Transactiond", "SELECT * FROM failed_transactions;")
+WHERE error_message IS NOT NULL AND error_message != ''
+GROUP BY error_message
+ORDER BY failure_count DESC;
+
+--Daily Failed Transactions Trend
+SELECT 
+  transaction_date, 
+  COUNT(*) AS daily_failure_count
+FROM EXTERNAL_QUERY("projects/basics-457710/locations/us/connections/Failed_Transactiond", "SELECT * FROM failed_transactions;")
+GROUP BY transaction_date
+ORDER BY transaction_date;
+
+--Which Branches Have the Most Diverse Error Types
+SELECT 
+  branch_id,
+  COUNT(DISTINCT error_message) AS unique_errors
+FROM EXTERNAL_QUERY("projects/basics-457710/locations/us/connections/Failed_Transactiond", "SELECT * FROM failed_transactions;")
+WHERE error_message IS NOT NULL AND error_message != ''
+GROUP BY branch_id
+ORDER BY unique_errors DESC;
+
+--Identify Any Branch with Failures > 50 in a Single Day
+SELECT 
+  branch_id,
+  branch_name,
+  transaction_date,
+  COUNT(*) AS failures
+FROM EXTERNAL_QUERY("projects/basics-457710/locations/us/connections/Failed_Transactiond", "SELECT * FROM failed_transactions;")
+GROUP BY branch_id, branch_name, transaction_date
+HAVING failures > 50
+ORDER BY failures DESC;
+
+
+
