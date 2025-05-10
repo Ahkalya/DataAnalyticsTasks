@@ -1,0 +1,1037 @@
+transaction_id,branch_id,branch_name,city,transaction_date,amount,status,transaction_type,customer_id,error_message,bank_name,pincode
+txn02055,mdb04,simmakkal,madurai,2024-05-06,1128.46,failure,withdrawal,3078,invalid account,canara bank,616471.0
+txn02046,cbb01,gandhipuram,coimbatore,2024-05-05,1414.17,failure,withdrawal,6601,technical error,canara bank,606409.0
+txn02995,cbb01,gandhipuram,coimbatore,2024-05-04,1747.72,failure,deposit,6441,network error,canara bank,604390.0
+txn02806,chb03,adyar,chennai,2024-05-02,4079.32,failure,withdrawal,2181,exceeded limit,canara bank,635197.0
+txn02214,chb01,t nagar,chennai,2024-05-07,3833.51,failure,transfer,1472,network error,canara bank,623910.0
+txn02569,chb01,t nagar,chennai,2024-05-05,3070.79,failure,withdrawal,8185,invalid account,canara bank,637955.0
+txn02651,mdb04,simmakkal,madurai,2024-05-03,4673.65,failure,transfer,4254,invalid account,canara bank,633206.0
+txn01981,chb01,t nagar,chennai,2024-05-03,4607.94,failure,transfer,7964,technical error,canara bank,604889.0
+txn02456,cbb03,peelamedu,coimbatore,2024-05-04,3742.99,failure,deposit,8643,technical error,canara bank,635574.0
+txn02760,cbb04,saibaba colony,coimbatore,2024-05-02,3991.91,failure,transfer,4970,insufficient balance,canara bank,630822.0
+txn02624,cbb02,rs puram,coimbatore,2024-05-06,2888.47,failure,deposit,7703,network error,canara bank,628341.0
+txn02585,chb04,guindy,chennai,2024-05-06,2767.79,failure,withdrawal,4250,insufficient balance,canara bank,639489.0
+txn02202,cbb02,rs puram,coimbatore,2024-05-02,581.4,failure,deposit,8706,insufficient balance,canara bank,631199.0
+txn02454,chb04,guindy,chennai,2024-05-05,1639.72,failure,withdrawal,6523,network error,canara bank,621180.0
+txn02043,mdb04,simmakkal,madurai,2024-05-03,4584.53,failure,transfer,3193,insufficient balance,canara bank,607727.0
+txn02521,chb04,guindy,chennai,2024-05-06,833.81,failure,transfer,1980,network error,canara bank,608654.0
+txn02982,chb02,velachery,chennai,2024-05-04,1260.43,failure,deposit,7376,insufficient balance,canara bank,612819.0
+txn01956,mdb05,tallakulam,madurai,2024-05-04,518.86,failure,deposit,9137,network error,canara bank,606586.0
+txn02958,cbb05,singanallur,coimbatore,2024-05-02,4748.72,failure,withdrawal,6141,insufficient balance,canara bank,626075.0
+txn02858,chb01,t nagar,chennai,2024-05-05,1491.53,failure,transfer,2502,technical error,canara bank,602691.0
+txn02513,cbb01,gandhipuram,coimbatore,2024-05-06,2522.74,failure,transfer,3336,network error,canara bank,600031.0
+txn02333,cbb04,saibaba colony,coimbatore,2024-05-01,4101.65,failure,withdrawal,4868,insufficient balance,canara bank,611195.0
+txn01974,mdb04,simmakkal,madurai,2024-05-05,2085.85,failure,withdrawal,5252,exceeded limit,canara bank,630944.0
+txn01985,mdb01,anna nagar,madurai,2024-05-01,514.13,failure,deposit,2941,invalid account,canara bank,632681.0
+txn02757,cbb02,rs puram,coimbatore,2024-05-01,4185.05,failure,deposit,4078,exceeded limit,canara bank,602446.0
+txn02918,chb05,tambaram,chennai,2024-05-01,1735.67,failure,deposit,4220,invalid account,canara bank,636278.0
+txn02317,mdb05,tallakulam,madurai,2024-05-03,4144.64,failure,withdrawal,6291,invalid account,canara bank,604627.0
+txn02755,chb02,velachery,chennai,2024-05-03,3997.38,failure,withdrawal,2734,exceeded limit,canara bank,617848.0
+txn02143,cbb01,gandhipuram,coimbatore,2024-05-02,3245.2,failure,transfer,8354,insufficient balance,canara bank,""
+txn02423,chb05,tambaram,chennai,2024-05-07,1840.33,failure,withdrawal,7502,network error,canara bank,621189.0
+txn02952,mdb04,simmakkal,madurai,2024-05-06,3154.4,failure,transfer,5023,invalid account,canara bank,608159.0
+txn02347,chb05,tambaram,chennai,2024-05-04,4827.79,failure,transfer,4414,insufficient balance,canara bank,608960.0
+txn02652,chb03,adyar,chennai,2024-05-05,3836.34,failure,deposit,6786,technical error,canara bank,628113.0
+txn02587,mdb03,thirunagar,madurai,2024-05-02,1370.58,failure,transfer,5755,exceeded limit,canara bank,614196.0
+txn02338,cbb01,gandhipuram,coimbatore,2024-05-06,4638.86,failure,deposit,3496,network error,canara bank,621149.0
+txn02544,chb02,velachery,chennai,2024-05-03,4518.41,failure,withdrawal,1102,invalid account,canara bank,622603.0
+txn02475,cbb01,gandhipuram,coimbatore,2024-05-06,3650.94,failure,transfer,6888,exceeded limit,canara bank,636473.0
+txn02056,chb02,velachery,chennai,2024-05-01,2757.73,failure,deposit,5167,invalid account,canara bank,635370.0
+txn02344,chb04,guindy,chennai,2024-05-02,4719.34,failure,transfer,6231,exceeded limit,canara bank,614329.0
+txn02242,chb04,guindy,chennai,2024-05-07,4530.96,failure,withdrawal,7161,technical error,canara bank,638912.0
+txn02506,chb02,velachery,chennai,2024-05-07,2097.28,failure,deposit,4529,insufficient balance,canara bank,615115.0
+txn02722,cbb04,saibaba colony,coimbatore,2024-05-05,1484.41,failure,deposit,7099,invalid account,canara bank,632403.0
+txn02625,mdb05,tallakulam,madurai,2024-05-06,3500.46,failure,deposit,2438,exceeded limit,canara bank,641936.0
+txn02114,cbb02,rs puram,coimbatore,2024-05-02,4275.21,failure,deposit,7589,network error,canara bank,637872.0
+txn02028,cbb04,saibaba colony,coimbatore,2024-05-04,2278.1,failure,withdrawal,3812,exceeded limit,canara bank,610893.0
+txn02153,cbb05,singanallur,coimbatore,2024-05-05,1079.65,failure,withdrawal,7831,exceeded limit,canara bank,604763.0
+txn02623,cbb04,saibaba colony,coimbatore,2024-05-04,2655.21,failure,deposit,9340,exceeded limit,canara bank,631374.0
+txn02619,chb01,t nagar,chennai,2024-05-01,4907.65,failure,transfer,9986,network error,canara bank,616025.0
+txn02102,cbb01,gandhipuram,coimbatore,2024-05-06,2544.9,failure,transfer,7308,insufficient balance,canara bank,619010.0
+txn02518,cbb04,saibaba colony,coimbatore,2024-05-04,3701.74,failure,withdrawal,1957,invalid account,canara bank,611587.0
+txn02235,cbb03,peelamedu,coimbatore,2024-05-04,4483.29,failure,transfer,4851,network error,canara bank,621121.0
+txn02249,chb04,guindy,chennai,2024-05-01,4616.77,failure,withdrawal,6301,exceeded limit,canara bank,637251.0
+txn01959,cbb01,gandhipuram,coimbatore,2024-05-01,1444.35,failure,withdrawal,2913,network error,canara bank,607009.0
+txn02174,mdb05,tallakulam,madurai,2024-05-03,4326.89,failure,deposit,1208,insufficient balance,canara bank,632520.0
+txn02583,cbb02,rs puram,coimbatore,2024-05-05,4392.63,failure,deposit,8926,exceeded limit,canara bank,630746.0
+txn01986,cbb03,peelamedu,coimbatore,2024-05-07,4971.31,failure,withdrawal,9283,technical error,canara bank,627820.0
+txn02888,chb05,tambaram,chennai,2024-05-05,2714.62,failure,transfer,9363,exceeded limit,canara bank,624964.0
+txn02934,mdb05,tallakulam,madurai,2024-05-02,2840.06,failure,transfer,5006,technical error,canara bank,622043.0
+txn02377,cbb04,saibaba colony,coimbatore,2024-05-06,3825.22,failure,deposit,7124,exceeded limit,canara bank,619164.0
+txn01987,chb03,adyar,chennai,2024-05-04,1610.52,failure,withdrawal,6258,insufficient balance,canara bank,608967.0
+txn02403,mdb04,simmakkal,madurai,2024-05-06,4572.1,failure,deposit,5533,technical error,canara bank,636055.0
+txn02148,cbb05,singanallur,coimbatore,2024-05-04,4991.35,failure,deposit,9483,invalid account,canara bank,618118.0
+txn02121,cbb05,singanallur,coimbatore,2024-05-05,4902.78,failure,withdrawal,1438,exceeded limit,canara bank,639244.0
+txn02993,mdb05,tallakulam,madurai,2024-05-04,3572.05,failure,deposit,2132,invalid account,canara bank,636612.0
+txn02078,chb01,t nagar,chennai,2024-05-05,1965.04,failure,withdrawal,3842,network error,canara bank,617785.0
+txn02445,mdb03,thirunagar,madurai,2024-05-07,4176.11,failure,deposit,5971,exceeded limit,canara bank,600283.0
+txn02793,cbb04,saibaba colony,coimbatore,2024-05-01,4111.55,failure,transfer,4299,insufficient balance,canara bank,602467.0
+txn02930,mdb05,tallakulam,madurai,2024-05-07,4244.88,failure,withdrawal,6626,insufficient balance,canara bank,636870.0
+txn02038,mdb01,anna nagar,madurai,2024-05-02,4348.92,failure,transfer,9262,technical error,canara bank,636718.0
+txn02609,cbb01,gandhipuram,coimbatore,2024-05-04,4794.61,failure,deposit,1934,network error,canara bank,615367.0
+txn02884,cbb03,peelamedu,coimbatore,2024-05-07,1851.96,failure,withdrawal,5317,exceeded limit,canara bank,626158.0
+txn02501,cbb05,singanallur,coimbatore,2024-05-07,1126.85,failure,withdrawal,4708,insufficient balance,canara bank,618320.0
+txn02039,cbb02,rs puram,coimbatore,2024-05-05,1371.38,failure,deposit,4157,network error,canara bank,619304.0
+txn02526,cbb01,gandhipuram,coimbatore,2024-05-01,1787.3,failure,deposit,6104,network error,canara bank,601414.0
+txn02647,cbb01,gandhipuram,coimbatore,2024-05-07,3389.0,failure,withdrawal,5998,exceeded limit,canara bank,639162.0
+txn02472,mdb05,tallakulam,madurai,2024-05-03,2535.67,failure,deposit,4738,invalid account,canara bank,606671.0
+txn02981,mdb05,tallakulam,madurai,2024-05-02,1392.47,failure,withdrawal,5373,insufficient balance,canara bank,606387.0
+txn02243,mdb02,k.k. nagar,madurai,2024-05-03,1244.02,failure,withdrawal,4879,technical error,canara bank,610450.0
+txn02911,chb03,adyar,chennai,2024-05-05,2328.17,failure,withdrawal,2178,invalid account,canara bank,628563.0
+txn02883,cbb01,gandhipuram,coimbatore,2024-05-03,2985.88,failure,deposit,3980,invalid account,canara bank,600839.0
+txn02127,chb01,t nagar,chennai,2024-05-04,3427.21,failure,withdrawal,3325,technical error,canara bank,606105.0
+txn02672,mdb01,anna nagar,madurai,2024-05-05,1544.68,failure,deposit,2284,exceeded limit,canara bank,619952.0
+txn02474,cbb02,rs puram,coimbatore,2024-05-02,3947.65,failure,transfer,3150,insufficient balance,canara bank,628619.0
+txn02463,chb03,adyar,chennai,2024-05-07,4995.21,failure,withdrawal,2822,network error,canara bank,600334.0
+txn02276,mdb03,thirunagar,madurai,2024-05-04,1876.76,failure,transfer,9789,invalid account,canara bank,625652.0
+txn02341,cbb05,singanallur,coimbatore,2024-05-01,4431.7,failure,deposit,4803,invalid account,canara bank,641128.0
+txn02739,mdb04,simmakkal,madurai,2024-05-05,3257.7,failure,transfer,9530,invalid account,canara bank,637785.0
+txn02275,cbb05,singanallur,coimbatore,2024-05-01,2229.89,failure,deposit,4275,invalid account,canara bank,637719.0
+txn02390,mdb01,anna nagar,madurai,2024-05-06,1968.98,failure,deposit,3755,invalid account,canara bank,606264.0
+txn02963,cbb01,gandhipuram,coimbatore,2024-05-02,1537.18,failure,withdrawal,2744,network error,canara bank,640115.0
+txn02575,cbb02,rs puram,coimbatore,2024-05-01,2606.56,failure,transfer,8896,invalid account,canara bank,636672.0
+txn02876,mdb02,k.k. nagar,madurai,2024-05-06,1719.46,failure,transfer,2414,insufficient balance,canara bank,600729.0
+txn01977,chb01,t nagar,chennai,2024-05-07,2329.58,failure,withdrawal,3378,exceeded limit,canara bank,604765.0
+txn02939,mdb03,thirunagar,madurai,2024-05-07,3256.21,failure,deposit,8976,exceeded limit,canara bank,615794.0
+txn02729,cbb03,peelamedu,coimbatore,2024-05-04,622.46,failure,withdrawal,7361,invalid account,canara bank,624715.0
+txn02231,cbb01,gandhipuram,coimbatore,2024-05-06,2189.19,failure,withdrawal,6986,network error,canara bank,606362.0
+txn02364,mdb01,anna nagar,madurai,2024-05-01,4548.4,failure,deposit,8171,exceeded limit,canara bank,636290.0
+txn02617,chb02,velachery,chennai,2024-05-06,3358.35,failure,transfer,2094,invalid account,canara bank,637492.0
+txn02476,chb05,tambaram,chennai,2024-05-07,2589.63,failure,deposit,1478,network error,canara bank,635419.0
+txn02232,mdb03,thirunagar,madurai,2024-05-06,4725.36,failure,withdrawal,1891,invalid account,canara bank,630162.0
+txn02262,mdb04,simmakkal,madurai,2024-05-06,3137.89,failure,deposit,9564,network error,canara bank,638475.0
+txn02607,cbb01,gandhipuram,coimbatore,2024-05-01,1868.87,failure,transfer,7176,insufficient balance,canara bank,620948.0
+txn02442,cbb01,gandhipuram,coimbatore,2024-05-06,2651.25,failure,transfer,2575,exceeded limit,canara bank,638777.0
+txn02830,cbb04,saibaba colony,coimbatore,2024-05-03,3766.88,failure,deposit,4967,invalid account,canara bank,617262.0
+txn02819,cbb04,saibaba colony,coimbatore,2024-05-01,2645.5,failure,transfer,1783,exceeded limit,canara bank,614408.0
+txn02218,cbb03,peelamedu,coimbatore,2024-05-07,4763.85,failure,withdrawal,6270,invalid account,canara bank,617915.0
+txn02142,cbb03,peelamedu,coimbatore,2024-05-02,540.3,failure,transfer,5362,technical error,canara bank,629580.0
+txn02643,chb02,velachery,chennai,2024-05-07,1350.65,failure,transfer,4454,insufficient balance,canara bank,641550.0
+txn02119,mdb03,thirunagar,madurai,2024-05-02,635.93,failure,transfer,9774,network error,canara bank,605709.0
+txn02020,cbb01,gandhipuram,coimbatore,2024-05-01,1810.42,failure,deposit,4418,network error,canara bank,627084.0
+txn02436,chb01,t nagar,chennai,2024-05-01,4972.89,failure,transfer,2493,insufficient balance,canara bank,626245.0
+txn02058,cbb01,gandhipuram,coimbatore,2024-05-04,2717.19,failure,withdrawal,4248,network error,canara bank,615367.0
+txn02790,mdb05,tallakulam,madurai,2024-05-07,3296.58,failure,withdrawal,5456,exceeded limit,canara bank,641390.0
+txn02115,mdb01,anna nagar,madurai,2024-05-04,1362.46,failure,transfer,3905,technical error,canara bank,640352.0
+txn02192,mdb01,anna nagar,madurai,2024-05-06,2501.67,failure,transfer,1203,network error,canara bank,625674.0
+txn02746,cbb05,singanallur,coimbatore,2024-05-04,1480.63,failure,transfer,9308,insufficient balance,canara bank,605812.0
+txn02749,cbb04,saibaba colony,coimbatore,2024-05-03,1348.36,failure,transfer,3813,insufficient balance,canara bank,625495.0
+txn02969,cbb02,rs puram,coimbatore,2024-05-06,2367.86,failure,transfer,8714,technical error,canara bank,617329.0
+txn02037,chb01,t nagar,chennai,2024-05-05,4481.31,failure,deposit,6531,invalid account,canara bank,621533.0
+txn02880,mdb02,k.k. nagar,madurai,2024-05-03,4122.78,failure,transfer,8587,insufficient balance,canara bank,609487.0
+txn02555,chb03,adyar,chennai,2024-05-06,3547.3,failure,transfer,5686,exceeded limit,canara bank,639282.0
+txn02166,cbb05,singanallur,coimbatore,2024-05-06,3420.34,failure,deposit,9496,network error,canara bank,615305.0
+txn02539,mdb02,k.k. nagar,madurai,2024-05-03,526.16,failure,withdrawal,3123,technical error,canara bank,627447.0
+txn02489,cbb03,peelamedu,coimbatore,2024-05-04,4521.56,failure,deposit,7538,invalid account,canara bank,609431.0
+txn02770,chb05,tambaram,chennai,2024-05-01,3419.66,failure,withdrawal,5754,invalid account,canara bank,611023.0
+txn02024,chb03,adyar,chennai,2024-05-05,3778.37,failure,transfer,6325,insufficient balance,canara bank,639560.0
+txn02909,cbb05,singanallur,coimbatore,2024-05-04,3577.57,failure,deposit,8021,exceeded limit,canara bank,621184.0
+txn02366,cbb05,singanallur,coimbatore,2024-05-01,1973.29,failure,transfer,5987,invalid account,canara bank,626451.0
+txn02182,mdb01,anna nagar,madurai,2024-05-07,2620.48,failure,deposit,6853,insufficient balance,canara bank,631675.0
+txn02645,chb01,t nagar,chennai,2024-05-02,4155.74,failure,deposit,7306,exceeded limit,canara bank,609103.0
+txn02012,chb01,t nagar,chennai,2024-05-07,837.55,failure,withdrawal,7078,exceeded limit,canara bank,627914.0
+txn02294,mdb04,simmakkal,madurai,2024-05-07,4300.85,failure,transfer,8978,network error,canara bank,617875.0
+txn02345,cbb05,singanallur,coimbatore,2024-05-06,1437.41,failure,deposit,6817,technical error,canara bank,632652.0
+txn02891,mdb02,k.k. nagar,madurai,2024-05-05,2219.86,failure,withdrawal,8896,technical error,canara bank,618160.0
+txn02298,mdb02,k.k. nagar,madurai,2024-05-05,1630.47,failure,deposit,6517,technical error,canara bank,641153.0
+txn02661,mdb04,simmakkal,madurai,2024-05-04,1522.74,failure,transfer,9028,network error,canara bank,638686.0
+txn02962,chb04,guindy,chennai,2024-05-01,2545.05,failure,deposit,9748,technical error,canara bank,614051.0
+txn02449,cbb04,saibaba colony,coimbatore,2024-05-04,1825.54,failure,withdrawal,4072,technical error,canara bank,604703.0
+txn01962,chb05,tambaram,chennai,2024-05-06,1782.03,failure,transfer,8645,technical error,canara bank,621539.0
+txn02095,cbb05,singanallur,coimbatore,2024-05-01,1678.33,failure,withdrawal,1817,invalid account,canara bank,632030.0
+txn02514,cbb03,peelamedu,coimbatore,2024-05-06,4117.11,failure,deposit,3239,network error,canara bank,605430.0
+txn02807,mdb02,k.k. nagar,madurai,2024-05-03,4106.92,failure,deposit,5926,insufficient balance,canara bank,608524.0
+txn02780,mdb04,simmakkal,madurai,2024-05-04,3123.89,failure,withdrawal,3838,network error,canara bank,637346.0
+txn02482,mdb05,tallakulam,madurai,2024-05-07,1019.34,failure,deposit,2594,network error,canara bank,640670.0
+txn02874,cbb05,singanallur,coimbatore,2024-05-02,1183.75,failure,deposit,9179,invalid account,canara bank,641815.0
+txn02085,cbb03,peelamedu,coimbatore,2024-05-07,2030.81,failure,transfer,8231,insufficient balance,canara bank,605672.0
+txn02150,chb04,guindy,chennai,2024-05-04,4130.59,failure,transfer,9666,exceeded limit,canara bank,618593.0
+txn02154,cbb05,singanallur,coimbatore,2024-05-05,2336.82,failure,deposit,6648,exceeded limit,canara bank,639995.0
+txn02721,chb04,guindy,chennai,2024-05-02,3130.94,failure,withdrawal,2745,network error,canara bank,626328.0
+txn02505,mdb02,k.k. nagar,madurai,2024-05-04,2221.02,failure,deposit,8779,insufficient balance,canara bank,625967.0
+txn02976,chb05,tambaram,chennai,2024-05-01,4087.82,failure,transfer,9721,invalid account,canara bank,605593.0
+txn02320,mdb01,anna nagar,madurai,2024-05-03,3124.33,failure,withdrawal,9095,technical error,canara bank,603807.0
+txn02247,chb02,velachery,chennai,2024-05-03,2725.9,failure,deposit,9606,network error,canara bank,639853.0
+txn02974,cbb03,peelamedu,coimbatore,2024-05-04,4836.92,failure,transfer,5470,exceeded limit,canara bank,624400.0
+txn02415,mdb04,simmakkal,madurai,2024-05-02,3509.4,failure,deposit,7765,insufficient balance,canara bank,625776.0
+txn02399,cbb04,saibaba colony,coimbatore,2024-05-06,1774.89,failure,deposit,4548,invalid account,canara bank,612169.0
+txn02217,cbb01,gandhipuram,coimbatore,2024-05-01,3304.76,failure,transfer,8051,insufficient balance,canara bank,608720.0
+txn03000,mdb01,anna nagar,madurai,2024-05-01,2337.14,failure,withdrawal,4920,invalid account,canara bank,605536.0
+txn02022,chb05,tambaram,chennai,2024-05-03,4021.34,failure,withdrawal,4959,technical error,canara bank,600350.0
+txn02016,chb05,tambaram,chennai,2024-05-07,4129.12,failure,deposit,1484,network error,canara bank,627081.0
+txn02717,mdb01,anna nagar,madurai,2024-05-05,1691.74,failure,transfer,5979,invalid account,canara bank,617010.0
+txn02400,mdb04,simmakkal,madurai,2024-05-03,3976.32,failure,withdrawal,8253,exceeded limit,canara bank,600327.0
+txn02773,mdb01,anna nagar,madurai,2024-05-01,3507.38,failure,transfer,7976,insufficient balance,canara bank,622044.0
+txn02579,cbb05,singanallur,coimbatore,2024-05-05,4150.04,failure,deposit,5178,invalid account,canara bank,604564.0
+txn02385,mdb01,anna nagar,madurai,2024-05-05,2552.48,failure,deposit,7641,technical error,canara bank,""
+txn02097,cbb03,peelamedu,coimbatore,2024-05-02,2556.66,failure,withdrawal,7146,insufficient balance,canara bank,635536.0
+txn02531,mdb05,tallakulam,madurai,2024-05-02,4106.51,failure,withdrawal,7762,invalid account,canara bank,637364.0
+txn02863,cbb01,gandhipuram,coimbatore,2024-05-01,1830.75,failure,withdrawal,2443,network error,canara bank,616349.0
+txn02309,cbb04,saibaba colony,coimbatore,2024-05-03,4676.41,failure,deposit,2616,exceeded limit,canara bank,612614.0
+txn02801,chb05,tambaram,chennai,2024-05-06,2773.32,failure,deposit,2571,exceeded limit,canara bank,632205.0
+txn02434,mdb02,k.k. nagar,madurai,2024-05-06,1731.34,failure,deposit,5611,insufficient balance,canara bank,636920.0
+txn02425,cbb04,saibaba colony,coimbatore,2024-05-02,4627.22,failure,deposit,2783,exceeded limit,canara bank,609090.0
+txn02842,cbb01,gandhipuram,coimbatore,2024-05-05,3388.57,failure,deposit,5525,network error,canara bank,615249.0
+txn02223,cbb05,singanallur,coimbatore,2024-05-04,735.5,failure,transfer,7674,exceeded limit,canara bank,600792.0
+txn02636,mdb04,simmakkal,madurai,2024-05-01,3417.29,failure,withdrawal,9611,exceeded limit,canara bank,602581.0
+txn02063,cbb02,rs puram,coimbatore,2024-05-01,3828.45,failure,withdrawal,7519,exceeded limit,canara bank,608214.0
+txn02288,mdb04,simmakkal,madurai,2024-05-05,4991.5,failure,deposit,9397,network error,canara bank,620859.0
+txn02324,chb02,velachery,chennai,2024-05-05,2296.17,failure,deposit,3955,insufficient balance,canara bank,641393.0
+txn02743,cbb01,gandhipuram,coimbatore,2024-05-04,1450.67,failure,transfer,6134,exceeded limit,canara bank,615942.0
+txn02771,cbb05,singanallur,coimbatore,2024-05-07,4338.53,failure,deposit,1504,network error,canara bank,618319.0
+txn01994,cbb01,gandhipuram,coimbatore,2024-05-03,2229.23,failure,withdrawal,8875,technical error,canara bank,615066.0
+txn02374,mdb02,k.k. nagar,madurai,2024-05-07,4715.56,failure,withdrawal,5727,invalid account,canara bank,636001.0
+txn02618,cbb04,saibaba colony,coimbatore,2024-05-06,4916.27,failure,withdrawal,1061,invalid account,canara bank,614437.0
+txn02234,cbb04,saibaba colony,coimbatore,2024-05-06,4715.28,failure,transfer,7629,technical error,canara bank,614078.0
+txn02002,cbb04,saibaba colony,coimbatore,2024-05-04,3612.33,failure,withdrawal,3054,network error,canara bank,634670.0
+txn02047,mdb02,k.k. nagar,madurai,2024-05-02,2279.85,failure,deposit,4753,insufficient balance,canara bank,631564.0
+txn02764,cbb02,rs puram,coimbatore,2024-05-03,3428.83,failure,deposit,7857,exceeded limit,canara bank,633307.0
+txn01963,cbb01,gandhipuram,coimbatore,2024-05-06,1042.16,failure,deposit,8168,invalid account,canara bank,614645.0
+txn02908,cbb03,peelamedu,coimbatore,2024-05-05,3688.42,failure,withdrawal,2425,insufficient balance,canara bank,641689.0
+txn02787,cbb03,peelamedu,coimbatore,2024-05-07,1795.87,failure,withdrawal,5081,technical error,canara bank,611574.0
+txn02110,mdb05,tallakulam,madurai,2024-05-06,3280.63,failure,transfer,8890,exceeded limit,canara bank,601578.0
+txn02534,cbb02,rs puram,coimbatore,2024-05-04,2503.02,failure,deposit,7042,insufficient balance,canara bank,609470.0
+txn02604,cbb02,rs puram,coimbatore,2024-05-07,2833.01,failure,withdrawal,7436,technical error,canara bank,621829.0
+txn02168,chb05,tambaram,chennai,2024-05-03,3014.15,failure,transfer,7564,network error,canara bank,637250.0
+txn02471,mdb05,tallakulam,madurai,2024-05-05,1837.22,failure,deposit,5471,insufficient balance,canara bank,602557.0
+txn02849,cbb05,singanallur,coimbatore,2024-05-03,1769.12,failure,deposit,3727,network error,canara bank,633067.0
+txn02641,mdb05,tallakulam,madurai,2024-05-04,4260.26,failure,deposit,9083,invalid account,canara bank,611202.0
+txn02774,cbb03,peelamedu,coimbatore,2024-05-01,3257.1,failure,transfer,5669,insufficient balance,canara bank,620246.0
+txn02478,cbb01,gandhipuram,coimbatore,2024-05-05,1998.12,failure,deposit,9364,insufficient balance,canara bank,617213.0
+txn02086,cbb05,singanallur,coimbatore,2024-05-05,3040.84,failure,deposit,5911,network error,canara bank,602699.0
+txn02924,mdb03,thirunagar,madurai,2024-05-05,3080.24,failure,deposit,3509,technical error,canara bank,622874.0
+txn02851,cbb04,saibaba colony,coimbatore,2024-05-04,1861.01,failure,deposit,2477,network error,canara bank,624017.0
+txn02369,cbb01,gandhipuram,coimbatore,2024-05-01,2973.13,failure,deposit,9021,network error,canara bank,624879.0
+txn02290,chb05,tambaram,chennai,2024-05-03,4144.51,failure,withdrawal,3521,network error,canara bank,633600.0
+txn02017,mdb05,tallakulam,madurai,2024-05-01,930.45,failure,withdrawal,4020,exceeded limit,canara bank,617606.0
+txn02198,mdb05,tallakulam,madurai,2024-05-01,2933.83,failure,transfer,5622,network error,canara bank,605169.0
+txn02562,cbb04,saibaba colony,coimbatore,2024-05-05,2029.69,failure,transfer,4499,invalid account,canara bank,612513.0
+txn02914,cbb02,rs puram,coimbatore,2024-05-07,669.38,failure,transfer,6362,technical error,canara bank,631156.0
+txn01999,cbb02,rs puram,coimbatore,2024-05-05,2822.87,failure,withdrawal,1748,exceeded limit,canara bank,627304.0
+txn01991,chb02,velachery,chennai,2024-05-06,2225.09,failure,deposit,5843,invalid account,canara bank,628517.0
+txn02060,mdb01,anna nagar,madurai,2024-05-02,2031.32,failure,transfer,9894,invalid account,canara bank,628397.0
+txn02177,mdb03,thirunagar,madurai,2024-05-07,3299.06,failure,transfer,2162,technical error,canara bank,612995.0
+txn02159,chb03,adyar,chennai,2024-05-02,3214.05,failure,transfer,4106,technical error,canara bank,605547.0
+txn02447,chb05,tambaram,chennai,2024-05-04,4329.88,failure,withdrawal,6195,network error,canara bank,631758.0
+txn02983,chb05,tambaram,chennai,2024-05-04,4453.02,failure,withdrawal,5769,exceeded limit,canara bank,631648.0
+txn01997,mdb04,simmakkal,madurai,2024-05-06,1314.81,failure,deposit,3654,technical error,canara bank,611322.0
+txn02736,chb01,t nagar,chennai,2024-05-05,2532.48,failure,deposit,9414,network error,canara bank,618401.0
+txn02599,cbb05,singanallur,coimbatore,2024-05-04,4385.83,failure,deposit,4615,invalid account,canara bank,618942.0
+txn02813,mdb03,thirunagar,madurai,2024-05-01,4850.77,failure,transfer,4414,insufficient balance,canara bank,619265.0
+txn02371,cbb03,peelamedu,coimbatore,2024-05-05,3910.7,failure,transfer,3993,exceeded limit,canara bank,628749.0
+txn02821,chb04,guindy,chennai,2024-05-02,2246.56,failure,withdrawal,8282,technical error,canara bank,620524.0
+txn02843,mdb02,k.k. nagar,madurai,2024-05-01,3784.98,failure,transfer,4046,exceeded limit,canara bank,627710.0
+txn02835,cbb01,gandhipuram,coimbatore,2024-05-01,3200.03,failure,transfer,9222,technical error,canara bank,638770.0
+txn02784,cbb02,rs puram,coimbatore,2024-05-05,3851.06,failure,withdrawal,7719,network error,canara bank,613211.0
+txn02685,cbb03,peelamedu,coimbatore,2024-05-03,707.89,failure,transfer,3371,technical error,canara bank,611515.0
+txn02992,mdb04,simmakkal,madurai,2024-05-06,569.6,failure,withdrawal,3141,invalid account,canara bank,607504.0
+txn02827,chb03,adyar,chennai,2024-05-05,2503.18,failure,deposit,5883,insufficient balance,canara bank,604983.0
+txn02980,chb03,adyar,chennai,2024-05-04,3518.42,failure,deposit,1457,insufficient balance,canara bank,617108.0
+txn02644,mdb01,anna nagar,madurai,2024-05-04,1256.67,failure,deposit,1223,exceeded limit,canara bank,641874.0
+txn02804,cbb01,gandhipuram,coimbatore,2024-05-03,1958.92,failure,deposit,6490,exceeded limit,canara bank,626774.0
+txn02854,mdb05,tallakulam,madurai,2024-05-07,2920.84,failure,transfer,3749,insufficient balance,canara bank,632045.0
+txn01978,chb04,guindy,chennai,2024-05-01,1479.14,failure,withdrawal,1760,technical error,canara bank,616911.0
+txn01953,cbb04,saibaba colony,coimbatore,2024-05-03,4397.77,failure,deposit,6690,insufficient balance,canara bank,606604.0
+txn01993,cbb01,gandhipuram,coimbatore,2024-05-04,957.86,failure,withdrawal,4335,insufficient balance,canara bank,632771.0
+txn02221,cbb03,peelamedu,coimbatore,2024-05-06,2076.76,failure,deposit,5643,invalid account,canara bank,621639.0
+txn02019,chb02,velachery,chennai,2024-05-07,4990.06,failure,withdrawal,4178,exceeded limit,canara bank,602579.0
+txn02662,cbb03,peelamedu,coimbatore,2024-05-06,4048.11,failure,withdrawal,1078,network error,canara bank,636847.0
+txn02099,chb04,guindy,chennai,2024-05-05,4660.77,failure,deposit,7025,invalid account,canara bank,605711.0
+txn02997,cbb01,gandhipuram,coimbatore,2024-05-02,1284.04,failure,withdrawal,1410,technical error,canara bank,633427.0
+txn02422,cbb03,peelamedu,coimbatore,2024-05-05,1436.03,failure,deposit,3006,invalid account,canara bank,626099.0
+txn02838,chb03,adyar,chennai,2024-05-06,1878.86,failure,withdrawal,7964,insufficient balance,canara bank,633471.0
+txn02147,mdb03,thirunagar,madurai,2024-05-07,4447.31,failure,transfer,9958,network error,canara bank,607790.0
+txn02018,cbb01,gandhipuram,coimbatore,2024-05-01,2400.36,failure,deposit,2170,exceeded limit,canara bank,630445.0
+txn02076,cbb01,gandhipuram,coimbatore,2024-05-03,2299.88,failure,withdrawal,2816,exceeded limit,canara bank,603598.0
+txn02015,chb01,t nagar,chennai,2024-05-03,1290.75,failure,deposit,7960,technical error,canara bank,600516.0
+txn02893,chb02,velachery,chennai,2024-05-03,1045.64,failure,transfer,5200,technical error,canara bank,638461.0
+txn02548,mdb02,k.k. nagar,madurai,2024-05-06,752.45,failure,transfer,5419,invalid account,canara bank,604197.0
+txn02286,chb02,velachery,chennai,2024-05-02,4512.98,failure,withdrawal,5260,insufficient balance,canara bank,633574.0
+txn02000,cbb03,peelamedu,coimbatore,2024-05-02,546.29,failure,transfer,7180,network error,canara bank,609426.0
+txn02776,chb03,adyar,chennai,2024-05-03,4238.68,failure,deposit,5916,invalid account,canara bank,606118.0
+txn02673,cbb03,peelamedu,coimbatore,2024-05-03,3901.09,failure,deposit,8434,insufficient balance,canara bank,627387.0
+txn02296,cbb05,singanallur,coimbatore,2024-05-01,1844.71,failure,deposit,8602,network error,canara bank,623196.0
+txn02810,cbb02,rs puram,coimbatore,2024-05-05,3410.71,failure,transfer,5005,exceeded limit,canara bank,636654.0
+txn02375,cbb04,saibaba colony,coimbatore,2024-05-02,1312.56,failure,transfer,4746,technical error,canara bank,600053.0
+txn02152,mdb01,anna nagar,madurai,2024-05-03,1336.98,failure,transfer,7339,network error,canara bank,610865.0
+txn02112,chb02,velachery,chennai,2024-05-07,1030.77,failure,withdrawal,1961,invalid account,canara bank,636768.0
+txn02994,mdb01,anna nagar,madurai,2024-05-02,2286.98,failure,transfer,3329,technical error,canara bank,625642.0
+txn02141,mdb03,thirunagar,madurai,2024-05-02,2335.2,failure,deposit,2474,network error,canara bank,614604.0
+txn02554,chb05,tambaram,chennai,2024-05-05,2324.62,failure,transfer,2405,network error,canara bank,624982.0
+txn02094,chb03,adyar,chennai,2024-05-07,3154.85,failure,deposit,1532,technical error,canara bank,614443.0
+txn02473,mdb01,anna nagar,madurai,2024-05-02,2061.63,failure,deposit,6151,network error,canara bank,620886.0
+txn02605,cbb05,singanallur,coimbatore,2024-05-02,4948.26,failure,withdrawal,3105,invalid account,canara bank,600172.0
+txn02975,mdb02,k.k. nagar,madurai,2024-05-02,2186.53,failure,withdrawal,5590,invalid account,canara bank,605008.0
+txn02596,cbb01,gandhipuram,coimbatore,2024-05-07,1013.08,failure,withdrawal,2872,insufficient balance,canara bank,621546.0
+txn02949,chb05,tambaram,chennai,2024-05-07,4590.87,failure,transfer,2926,network error,canara bank,626906.0
+txn02397,chb05,tambaram,chennai,2024-05-01,1365.99,failure,transfer,3855,invalid account,canara bank,611898.0
+txn02200,chb03,adyar,chennai,2024-05-05,1740.55,failure,withdrawal,1770,invalid account,canara bank,610683.0
+txn02492,chb04,guindy,chennai,2024-05-06,2293.11,failure,transfer,3633,technical error,canara bank,626069.0
+txn02520,mdb02,k.k. nagar,madurai,2024-05-05,889.43,failure,transfer,6261,exceeded limit,canara bank,635878.0
+txn02241,cbb03,peelamedu,coimbatore,2024-05-03,679.63,failure,transfer,3185,invalid account,canara bank,615734.0
+txn02432,mdb02,k.k. nagar,madurai,2024-05-05,3207.34,failure,transfer,1555,insufficient balance,canara bank,612760.0
+txn02128,cbb01,gandhipuram,coimbatore,2024-05-02,4727.67,failure,deposit,2874,exceeded limit,canara bank,603566.0
+txn02541,chb04,guindy,chennai,2024-05-04,3699.33,failure,deposit,4791,invalid account,canara bank,601428.0
+txn02633,mdb05,tallakulam,madurai,2024-05-01,1926.89,failure,deposit,5766,insufficient balance,canara bank,628890.0
+txn02340,cbb05,singanallur,coimbatore,2024-05-05,835.92,failure,deposit,8174,exceeded limit,canara bank,640496.0
+txn02183,mdb02,k.k. nagar,madurai,2024-05-06,1249.06,failure,transfer,6687,insufficient balance,canara bank,617563.0
+txn02683,chb05,tambaram,chennai,2024-05-05,2887.67,failure,deposit,6055,technical error,canara bank,622555.0
+txn02935,mdb05,tallakulam,madurai,2024-05-04,1724.51,failure,withdrawal,8116,invalid account,canara bank,624854.0
+txn02901,mdb02,k.k. nagar,madurai,2024-05-06,2914.35,failure,deposit,2815,technical error,canara bank,614309.0
+txn02896,cbb04,saibaba colony,coimbatore,2024-05-02,3023.57,failure,transfer,6872,insufficient balance,canara bank,626794.0
+txn02946,mdb03,thirunagar,madurai,2024-05-02,1570.04,failure,deposit,9788,invalid account,canara bank,624438.0
+txn02768,mdb05,tallakulam,madurai,2024-05-05,4458.02,failure,transfer,4760,insufficient balance,canara bank,626988.0
+txn02621,cbb02,rs puram,coimbatore,2024-05-01,3009.65,failure,deposit,6053,network error,canara bank,627669.0
+txn02379,mdb05,tallakulam,madurai,2024-05-04,3153.4,failure,withdrawal,4500,insufficient balance,canara bank,608783.0
+txn02145,cbb02,rs puram,coimbatore,2024-05-06,3938.44,failure,withdrawal,9212,insufficient balance,canara bank,634917.0
+txn02140,chb03,adyar,chennai,2024-05-07,3478.66,failure,transfer,3336,invalid account,canara bank,610637.0
+txn02089,cbb05,singanallur,coimbatore,2024-05-03,2518.86,failure,deposit,3711,invalid account,canara bank,619230.0
+txn02248,chb04,guindy,chennai,2024-05-03,4189.45,failure,deposit,6378,invalid account,canara bank,622420.0
+txn02816,chb01,t nagar,chennai,2024-05-02,3863.11,failure,deposit,5157,invalid account,canara bank,618433.0
+txn02287,mdb05,tallakulam,madurai,2024-05-04,4698.29,failure,deposit,3354,network error,canara bank,613212.0
+txn02855,mdb05,tallakulam,madurai,2024-05-03,2046.77,failure,transfer,1948,technical error,canara bank,634244.0
+txn02916,mdb02,k.k. nagar,madurai,2024-05-03,3975.32,failure,transfer,3742,exceeded limit,canara bank,625007.0
+txn02886,mdb05,tallakulam,madurai,2024-05-06,3129.91,failure,withdrawal,8137,exceeded limit,canara bank,617013.0
+txn02597,chb01,t nagar,chennai,2024-05-01,811.59,failure,transfer,3480,exceeded limit,canara bank,600585.0
+txn02669,cbb03,peelamedu,coimbatore,2024-05-02,2981.12,failure,transfer,7230,network error,canara bank,622541.0
+txn02892,mdb04,simmakkal,madurai,2024-05-01,3891.49,failure,transfer,1252,network error,canara bank,633354.0
+txn02329,chb04,guindy,chennai,2024-05-07,1160.31,failure,transfer,3358,exceeded limit,canara bank,636260.0
+txn02530,mdb02,k.k. nagar,madurai,2024-05-02,4869.04,failure,transfer,5224,insufficient balance,canara bank,632171.0
+txn02818,chb05,tambaram,chennai,2024-05-01,3534.19,failure,deposit,4214,network error,canara bank,""
+txn02737,cbb01,gandhipuram,coimbatore,2024-05-05,1366.61,failure,deposit,9789,insufficient balance,canara bank,629252.0
+txn02751,mdb03,thirunagar,madurai,2024-05-03,3102.78,failure,deposit,6086,technical error,canara bank,603689.0
+txn02452,chb03,adyar,chennai,2024-05-03,4446.4,failure,deposit,4890,insufficient balance,canara bank,621989.0
+txn02772,chb03,adyar,chennai,2024-05-01,3639.68,failure,withdrawal,8196,exceeded limit,canara bank,623006.0
+txn02313,mdb05,tallakulam,madurai,2024-05-07,605.32,failure,withdrawal,3502,network error,canara bank,608751.0
+txn02163,chb02,velachery,chennai,2024-05-05,4151.87,failure,withdrawal,6265,network error,canara bank,641653.0
+txn02226,chb02,velachery,chennai,2024-05-02,2089.94,failure,deposit,6996,technical error,canara bank,623932.0
+txn02027,mdb01,anna nagar,madurai,2024-05-03,4887.23,failure,transfer,8032,insufficient balance,canara bank,608221.0
+txn02003,cbb05,singanallur,coimbatore,2024-05-07,2638.33,failure,deposit,7659,insufficient balance,canara bank,617253.0
+txn02292,mdb05,tallakulam,madurai,2024-05-02,636.79,failure,transfer,5554,insufficient balance,canara bank,613933.0
+txn02961,chb03,adyar,chennai,2024-05-06,4080.13,failure,transfer,9637,technical error,canara bank,626708.0
+txn02845,cbb02,rs puram,coimbatore,2024-05-02,801.88,failure,deposit,6809,insufficient balance,canara bank,614175.0
+txn02706,chb01,t nagar,chennai,2024-05-07,3876.54,failure,deposit,4992,network error,canara bank,618404.0
+txn02126,cbb03,peelamedu,coimbatore,2024-05-06,1498.07,failure,deposit,6631,technical error,canara bank,638005.0
+txn02130,chb05,tambaram,chennai,2024-05-06,2927.4,failure,transfer,2074,exceeded limit,canara bank,610443.0
+txn02630,mdb05,tallakulam,madurai,2024-05-02,4137.91,failure,transfer,9772,insufficient balance,canara bank,608886.0
+txn02252,cbb02,rs puram,coimbatore,2024-05-02,2717.43,failure,withdrawal,8649,network error,canara bank,613354.0
+txn02334,mdb02,k.k. nagar,madurai,2024-05-01,1953.07,failure,withdrawal,1699,invalid account,canara bank,628835.0
+txn02267,mdb02,k.k. nagar,madurai,2024-05-05,1657.67,failure,withdrawal,2661,network error,canara bank,606609.0
+txn02417,mdb01,anna nagar,madurai,2024-05-04,932.82,failure,deposit,9193,insufficient balance,canara bank,606653.0
+txn02236,mdb05,tallakulam,madurai,2024-05-04,1687.29,failure,transfer,8536,exceeded limit,canara bank,635845.0
+txn02832,cbb02,rs puram,coimbatore,2024-05-02,4392.14,failure,deposit,7743,exceeded limit,canara bank,602091.0
+txn02933,cbb05,singanallur,coimbatore,2024-05-07,1243.45,failure,deposit,2643,exceeded limit,canara bank,618062.0
+txn02865,chb01,t nagar,chennai,2024-05-02,764.99,failure,withdrawal,5863,insufficient balance,canara bank,629477.0
+txn02258,cbb01,gandhipuram,coimbatore,2024-05-06,3416.02,failure,withdrawal,8753,invalid account,canara bank,633184.0
+txn02293,cbb05,singanallur,coimbatore,2024-05-01,3127.47,failure,withdrawal,2084,technical error,canara bank,631171.0
+txn02083,cbb04,saibaba colony,coimbatore,2024-05-05,2129.06,failure,withdrawal,1518,exceeded limit,canara bank,613660.0
+txn02161,chb04,guindy,chennai,2024-05-04,1160.57,failure,transfer,2103,invalid account,canara bank,614866.0
+txn02915,mdb02,k.k. nagar,madurai,2024-05-02,4648.84,failure,deposit,3068,technical error,canara bank,618401.0
+txn02001,cbb01,gandhipuram,coimbatore,2024-05-07,4256.76,failure,deposit,6542,network error,canara bank,635946.0
+txn02495,chb03,adyar,chennai,2024-05-05,521.45,failure,deposit,5487,insufficient balance,canara bank,629778.0
+txn02782,mdb05,tallakulam,madurai,2024-05-07,3895.23,failure,transfer,1266,technical error,canara bank,615106.0
+txn02208,chb02,velachery,chennai,2024-05-06,2229.65,failure,transfer,9759,invalid account,canara bank,601078.0
+txn02950,chb02,velachery,chennai,2024-05-02,3837.49,failure,transfer,5947,exceeded limit,canara bank,600124.0
+txn02966,mdb05,tallakulam,madurai,2024-05-04,2487.33,failure,deposit,5391,technical error,canara bank,601465.0
+txn02560,chb05,tambaram,chennai,2024-05-06,2793.07,failure,transfer,1585,invalid account,canara bank,616731.0
+txn02921,cbb03,peelamedu,coimbatore,2024-05-04,4463.38,failure,withdrawal,5014,technical error,canara bank,610109.0
+txn02759,chb02,velachery,chennai,2024-05-06,3976.52,failure,withdrawal,6215,network error,canara bank,606149.0
+txn02833,mdb01,anna nagar,madurai,2024-05-07,4810.9,failure,withdrawal,8641,insufficient balance,canara bank,637397.0
+txn02254,mdb04,simmakkal,madurai,2024-05-01,4664.81,failure,withdrawal,1056,network error,canara bank,636603.0
+txn02353,mdb01,anna nagar,madurai,2024-05-06,2691.75,failure,transfer,2882,exceeded limit,canara bank,604171.0
+txn02304,cbb05,singanallur,coimbatore,2024-05-03,4800.5,failure,deposit,6058,insufficient balance,canara bank,633652.0
+txn02936,cbb05,singanallur,coimbatore,2024-05-01,2666.34,failure,withdrawal,6343,invalid account,canara bank,640158.0
+txn02132,mdb03,thirunagar,madurai,2024-05-07,4759.37,failure,transfer,1315,exceeded limit,canara bank,609654.0
+txn02450,chb05,tambaram,chennai,2024-05-07,4837.93,failure,deposit,9180,invalid account,canara bank,640283.0
+txn02697,mdb04,simmakkal,madurai,2024-05-04,504.4,failure,transfer,5784,invalid account,canara bank,638985.0
+txn02500,mdb03,thirunagar,madurai,2024-05-06,3199.03,failure,withdrawal,3970,network error,canara bank,605412.0
+txn02302,cbb02,rs puram,coimbatore,2024-05-07,1904.81,failure,deposit,4725,insufficient balance,canara bank,636931.0
+txn02567,mdb01,anna nagar,madurai,2024-05-04,4538.56,failure,transfer,4345,exceeded limit,canara bank,606740.0
+txn02072,mdb01,anna nagar,madurai,2024-05-01,3727.29,failure,transfer,2226,insufficient balance,canara bank,605532.0
+txn02367,chb03,adyar,chennai,2024-05-03,621.06,failure,deposit,4461,network error,canara bank,622968.0
+txn02315,mdb01,anna nagar,madurai,2024-05-02,4477.57,failure,deposit,8725,technical error,canara bank,603711.0
+txn02402,mdb01,anna nagar,madurai,2024-05-06,4146.08,failure,withdrawal,5055,exceeded limit,canara bank,629742.0
+txn02871,chb04,guindy,chennai,2024-05-01,4629.73,failure,transfer,7265,exceeded limit,canara bank,640361.0
+txn02686,mdb02,k.k. nagar,madurai,2024-05-01,1608.42,failure,deposit,8723,invalid account,canara bank,624320.0
+txn01996,chb02,velachery,chennai,2024-05-04,1834.28,failure,deposit,5943,technical error,canara bank,621255.0
+txn02742,cbb03,peelamedu,coimbatore,2024-05-05,3819.96,failure,transfer,9757,insufficient balance,canara bank,600617.0
+txn02612,mdb02,k.k. nagar,madurai,2024-05-01,2988.7,failure,transfer,2867,insufficient balance,canara bank,620298.0
+txn02394,chb02,velachery,chennai,2024-05-03,668.11,failure,withdrawal,4802,technical error,canara bank,608552.0
+txn02601,chb03,adyar,chennai,2024-05-05,2313.14,failure,transfer,2495,invalid account,canara bank,625193.0
+txn02351,chb03,adyar,chennai,2024-05-03,4076.19,failure,withdrawal,5171,exceeded limit,canara bank,611580.0
+txn02680,mdb03,thirunagar,madurai,2024-05-01,2461.22,failure,withdrawal,1971,invalid account,canara bank,621994.0
+txn02864,chb03,adyar,chennai,2024-05-06,2103.61,failure,deposit,1884,insufficient balance,canara bank,621020.0
+txn02245,mdb02,k.k. nagar,madurai,2024-05-01,3088.54,failure,withdrawal,1002,insufficient balance,canara bank,627741.0
+txn02532,chb03,adyar,chennai,2024-05-02,4637.07,failure,deposit,1675,insufficient balance,canara bank,606447.0
+txn02113,cbb01,gandhipuram,coimbatore,2024-05-05,4389.43,failure,transfer,8254,insufficient balance,canara bank,626682.0
+txn02307,cbb01,gandhipuram,coimbatore,2024-05-05,2391.28,failure,deposit,4600,network error,canara bank,628139.0
+txn02483,mdb04,simmakkal,madurai,2024-05-03,4690.23,failure,deposit,7594,technical error,canara bank,637730.0
+txn02156,cbb05,singanallur,coimbatore,2024-05-06,2648.57,failure,withdrawal,9433,exceeded limit,canara bank,632469.0
+txn02108,mdb05,tallakulam,madurai,2024-05-04,1980.94,failure,transfer,6398,technical error,canara bank,603060.0
+txn02388,cbb03,peelamedu,coimbatore,2024-05-02,3680.28,failure,deposit,1200,exceeded limit,canara bank,602179.0
+txn02812,chb01,t nagar,chennai,2024-05-07,3938.57,failure,withdrawal,9999,technical error,canara bank,624732.0
+txn02193,cbb02,rs puram,coimbatore,2024-05-05,3640.17,failure,deposit,7260,invalid account,canara bank,628661.0
+txn01982,chb03,adyar,chennai,2024-05-07,1528.85,failure,deposit,2653,invalid account,canara bank,604671.0
+txn02715,cbb02,rs puram,coimbatore,2024-05-03,3022.83,failure,deposit,9734,technical error,canara bank,621014.0
+txn02479,cbb04,saibaba colony,coimbatore,2024-05-05,2344.96,failure,withdrawal,5715,network error,canara bank,636085.0
+txn02273,mdb05,tallakulam,madurai,2024-05-05,1136.05,failure,deposit,4359,exceeded limit,canara bank,634463.0
+txn02730,mdb05,tallakulam,madurai,2024-05-04,3169.2,failure,withdrawal,1357,network error,canara bank,624734.0
+txn02984,chb05,tambaram,chennai,2024-05-01,4961.23,failure,transfer,8916,exceeded limit,canara bank,607105.0
+txn02196,chb05,tambaram,chennai,2024-05-05,4550.01,failure,withdrawal,8985,insufficient balance,canara bank,633135.0
+txn02081,cbb03,peelamedu,coimbatore,2024-05-02,4724.11,failure,transfer,2624,exceeded limit,canara bank,622870.0
+txn02527,chb01,t nagar,chennai,2024-05-06,1601.79,failure,withdrawal,5024,technical error,canara bank,635251.0
+txn02491,mdb01,anna nagar,madurai,2024-05-02,2109.71,failure,transfer,1335,technical error,canara bank,618374.0
+txn02380,mdb01,anna nagar,madurai,2024-05-03,562.84,failure,withdrawal,5676,network error,canara bank,628890.0
+txn02395,chb02,velachery,chennai,2024-05-01,2175.97,failure,deposit,1451,insufficient balance,canara bank,640236.0
+txn02481,chb03,adyar,chennai,2024-05-04,4916.02,failure,transfer,1408,network error,canara bank,630452.0
+txn02054,mdb01,anna nagar,madurai,2024-05-03,1569.93,failure,deposit,9477,exceeded limit,canara bank,631793.0
+txn02795,cbb03,peelamedu,coimbatore,2024-05-06,3783.77,failure,transfer,7585,exceeded limit,canara bank,633840.0
+txn02945,cbb05,singanallur,coimbatore,2024-05-03,4439.91,failure,withdrawal,8661,network error,canara bank,640605.0
+txn02629,mdb05,tallakulam,madurai,2024-05-06,4513.96,failure,transfer,1011,exceeded limit,canara bank,619100.0
+txn01969,chb05,tambaram,chennai,2024-05-02,2683.24,failure,deposit,1660,exceeded limit,canara bank,627475.0
+txn02311,chb05,tambaram,chennai,2024-05-07,3939.6,failure,withdrawal,9861,technical error,canara bank,609803.0
+txn02582,chb01,t nagar,chennai,2024-05-05,4622.44,failure,withdrawal,3049,insufficient balance,canara bank,641872.0
+txn02285,mdb01,anna nagar,madurai,2024-05-03,820.81,failure,withdrawal,6781,invalid account,canara bank,621306.0
+txn02923,mdb02,k.k. nagar,madurai,2024-05-04,1112.15,failure,transfer,6451,network error,canara bank,625893.0
+txn02358,mdb02,k.k. nagar,madurai,2024-05-05,2322.81,failure,transfer,4954,network error,canara bank,601880.0
+txn02675,chb04,guindy,chennai,2024-05-03,2233.72,failure,deposit,2423,invalid account,canara bank,631171.0
+txn02125,mdb05,tallakulam,madurai,2024-05-01,2364.28,failure,transfer,1091,exceeded limit,canara bank,641551.0
+txn02420,mdb02,k.k. nagar,madurai,2024-05-07,4235.44,failure,deposit,2563,invalid account,canara bank,635148.0
+txn02486,mdb01,anna nagar,madurai,2024-05-07,2385.96,failure,withdrawal,1800,invalid account,canara bank,623547.0
+txn02005,cbb02,rs puram,coimbatore,2024-05-03,527.12,failure,deposit,9598,technical error,canara bank,609489.0
+txn02010,cbb02,rs puram,coimbatore,2024-05-07,1314.17,failure,deposit,7593,network error,canara bank,629848.0
+txn02048,cbb02,rs puram,coimbatore,2024-05-06,2303.52,failure,withdrawal,5490,exceeded limit,canara bank,620874.0
+txn02837,mdb03,thirunagar,madurai,2024-05-05,1467.66,failure,withdrawal,5533,exceeded limit,canara bank,627944.0
+txn02592,chb03,adyar,chennai,2024-05-07,1697.06,failure,deposit,7007,network error,canara bank,610583.0
+txn02372,cbb03,peelamedu,coimbatore,2024-05-07,917.07,failure,transfer,1736,insufficient balance,canara bank,614178.0
+txn02732,chb04,guindy,chennai,2024-05-06,3215.08,failure,transfer,4732,exceeded limit,canara bank,614878.0
+txn02350,cbb03,peelamedu,coimbatore,2024-05-05,1613.48,failure,withdrawal,7374,insufficient balance,canara bank,630577.0
+txn02613,mdb01,anna nagar,madurai,2024-05-02,2870.27,failure,deposit,6503,invalid account,canara bank,604226.0
+txn02030,mdb05,tallakulam,madurai,2024-05-03,605.28,failure,transfer,1009,technical error,canara bank,635792.0
+txn02543,chb05,tambaram,chennai,2024-05-01,1855.23,failure,transfer,7082,insufficient balance,canara bank,612193.0
+txn02135,mdb05,tallakulam,madurai,2024-05-04,4363.61,failure,deposit,8737,exceeded limit,canara bank,625685.0
+txn02798,chb01,t nagar,chennai,2024-05-07,1673.88,failure,withdrawal,2344,insufficient balance,canara bank,601725.0
+txn02533,cbb01,gandhipuram,coimbatore,2024-05-07,2245.26,failure,withdrawal,3681,exceeded limit,canara bank,625751.0
+txn02740,cbb03,peelamedu,coimbatore,2024-05-05,3264.35,failure,transfer,1931,invalid account,canara bank,610567.0
+txn02031,cbb03,peelamedu,coimbatore,2024-05-07,512.55,failure,transfer,9112,invalid account,canara bank,627053.0
+txn02733,mdb01,anna nagar,madurai,2024-05-07,2050.32,failure,deposit,3375,technical error,canara bank,607446.0
+txn02822,mdb01,anna nagar,madurai,2024-05-05,3264.14,failure,transfer,9001,exceeded limit,canara bank,617365.0
+txn02577,cbb05,singanallur,coimbatore,2024-05-07,1436.08,failure,deposit,1105,network error,canara bank,633780.0
+txn02698,mdb05,tallakulam,madurai,2024-05-07,3780.48,failure,withdrawal,4219,insufficient balance,canara bank,616666.0
+txn02439,cbb05,singanallur,coimbatore,2024-05-01,3865.95,failure,deposit,1648,network error,canara bank,619136.0
+txn02536,cbb04,saibaba colony,coimbatore,2024-05-03,4686.59,failure,withdrawal,8688,exceeded limit,canara bank,617052.0
+txn02407,mdb05,tallakulam,madurai,2024-05-01,3288.15,failure,withdrawal,7823,invalid account,canara bank,606897.0
+txn02823,cbb03,peelamedu,coimbatore,2024-05-05,1726.77,failure,withdrawal,4922,invalid account,canara bank,632928.0
+txn02552,cbb05,singanallur,coimbatore,2024-05-03,1069.25,failure,withdrawal,9898,network error,canara bank,613409.0
+txn01976,mdb01,anna nagar,madurai,2024-05-02,3101.29,failure,withdrawal,3327,insufficient balance,canara bank,621094.0
+txn02716,chb02,velachery,chennai,2024-05-02,2564.5,failure,transfer,7083,insufficient balance,canara bank,607218.0
+txn02668,chb03,adyar,chennai,2024-05-05,631.37,failure,deposit,7571,invalid account,canara bank,612102.0
+txn02424,mdb03,thirunagar,madurai,2024-05-07,1148.67,failure,transfer,3694,exceeded limit,canara bank,619434.0
+txn02655,mdb04,simmakkal,madurai,2024-05-01,4659.4,failure,transfer,5763,network error,canara bank,610425.0
+txn02557,chb02,velachery,chennai,2024-05-02,1676.98,failure,withdrawal,2533,technical error,canara bank,614101.0
+txn02049,chb05,tambaram,chennai,2024-05-06,4630.14,failure,withdrawal,7276,insufficient balance,canara bank,609298.0
+txn02504,cbb01,gandhipuram,coimbatore,2024-05-04,2588.05,failure,deposit,2953,invalid account,canara bank,615778.0
+txn02373,mdb03,thirunagar,madurai,2024-05-01,4877.61,failure,transfer,6480,invalid account,canara bank,604165.0
+txn02357,mdb02,k.k. nagar,madurai,2024-05-06,2690.84,failure,withdrawal,5715,insufficient balance,canara bank,608419.0
+txn02279,cbb01,gandhipuram,coimbatore,2024-05-01,4277.35,failure,deposit,3305,exceeded limit,canara bank,605484.0
+txn02834,mdb01,anna nagar,madurai,2024-05-01,769.69,failure,deposit,6040,technical error,canara bank,623703.0
+txn02079,cbb01,gandhipuram,coimbatore,2024-05-04,4217.73,failure,transfer,3402,network error,canara bank,607296.0
+txn02566,cbb01,gandhipuram,coimbatore,2024-05-01,4829.3,failure,transfer,1609,network error,canara bank,630317.0
+txn02825,chb02,velachery,chennai,2024-05-04,2251.82,failure,withdrawal,8787,invalid account,canara bank,601640.0
+txn02446,chb05,tambaram,chennai,2024-05-05,4113.52,failure,deposit,5740,insufficient balance,canara bank,607814.0
+txn01970,mdb01,anna nagar,madurai,2024-05-01,1319.28,failure,withdrawal,9962,insufficient balance,canara bank,635982.0
+txn02228,chb01,t nagar,chennai,2024-05-04,2736.73,failure,deposit,6177,exceeded limit,canara bank,603537.0
+txn02797,cbb01,gandhipuram,coimbatore,2024-05-04,3651.26,failure,transfer,1364,exceeded limit,canara bank,638289.0
+txn02084,cbb05,singanallur,coimbatore,2024-05-03,1310.27,failure,deposit,5545,exceeded limit,canara bank,604553.0
+txn02165,mdb04,simmakkal,madurai,2024-05-03,1218.96,failure,transfer,3218,invalid account,canara bank,600745.0
+txn02873,mdb03,thirunagar,madurai,2024-05-02,4100.28,failure,deposit,7627,technical error,canara bank,609267.0
+txn02574,mdb05,tallakulam,madurai,2024-05-07,3924.88,failure,deposit,5625,network error,canara bank,625422.0
+txn02796,cbb04,saibaba colony,coimbatore,2024-05-04,3150.69,failure,transfer,5230,exceeded limit,canara bank,601075.0
+txn02734,mdb02,k.k. nagar,madurai,2024-05-04,4707.69,failure,withdrawal,6403,technical error,canara bank,614619.0
+txn02882,mdb01,anna nagar,madurai,2024-05-06,4683.86,failure,transfer,9454,exceeded limit,canara bank,601045.0
+txn02800,cbb04,saibaba colony,coimbatore,2024-05-07,2113.23,failure,withdrawal,6337,insufficient balance,canara bank,622198.0
+txn02766,cbb01,gandhipuram,coimbatore,2024-05-04,3615.85,failure,deposit,8845,network error,canara bank,619251.0
+txn02741,chb01,t nagar,chennai,2024-05-04,1059.07,failure,withdrawal,9950,exceeded limit,canara bank,622004.0
+txn02848,cbb02,rs puram,coimbatore,2024-05-03,2548.43,failure,withdrawal,3100,insufficient balance,canara bank,612320.0
+txn02709,mdb02,k.k. nagar,madurai,2024-05-06,3790.42,failure,transfer,7336,technical error,canara bank,607967.0
+txn02970,mdb01,anna nagar,madurai,2024-05-02,4488.6,failure,transfer,7395,exceeded limit,canara bank,638226.0
+txn02401,chb03,adyar,chennai,2024-05-05,2803.99,failure,withdrawal,4167,invalid account,canara bank,611395.0
+txn02066,chb01,t nagar,chennai,2024-05-05,1325.08,failure,transfer,7647,network error,canara bank,619653.0
+txn02887,chb01,t nagar,chennai,2024-05-01,4552.61,failure,withdrawal,6806,exceeded limit,canara bank,608818.0
+txn02628,cbb04,saibaba colony,coimbatore,2024-05-01,4773.21,failure,withdrawal,3769,network error,canara bank,636065.0
+txn02844,cbb01,gandhipuram,coimbatore,2024-05-03,1752.08,failure,withdrawal,4964,technical error,canara bank,635064.0
+txn02365,chb04,guindy,chennai,2024-05-04,2111.38,failure,transfer,1264,insufficient balance,canara bank,631088.0
+txn02665,mdb02,k.k. nagar,madurai,2024-05-05,923.96,failure,deposit,6626,network error,canara bank,604243.0
+txn02996,mdb02,k.k. nagar,madurai,2024-05-06,4555.98,failure,transfer,3269,invalid account,canara bank,611264.0
+txn02913,chb05,tambaram,chennai,2024-05-02,2079.33,failure,transfer,4009,insufficient balance,canara bank,607226.0
+txn02558,cbb01,gandhipuram,coimbatore,2024-05-07,3438.88,failure,deposit,2268,insufficient balance,canara bank,621745.0
+txn02700,mdb05,tallakulam,madurai,2024-05-02,3022.08,failure,transfer,1560,network error,canara bank,620296.0
+txn02444,mdb01,anna nagar,madurai,2024-05-07,2729.81,failure,deposit,3215,insufficient balance,canara bank,638206.0
+txn02954,cbb03,peelamedu,coimbatore,2024-05-03,3712.48,failure,withdrawal,1607,insufficient balance,canara bank,630244.0
+txn02383,chb03,adyar,chennai,2024-05-02,3120.34,failure,withdrawal,2508,insufficient balance,canara bank,616396.0
+txn02107,cbb05,singanallur,coimbatore,2024-05-06,1765.44,failure,deposit,1264,technical error,canara bank,629631.0
+txn02920,mdb04,simmakkal,madurai,2024-05-04,4940.44,failure,withdrawal,2709,invalid account,canara bank,621385.0
+txn02391,chb03,adyar,chennai,2024-05-07,1190.31,failure,withdrawal,7698,exceeded limit,canara bank,602404.0
+txn02408,cbb04,saibaba colony,coimbatore,2024-05-07,4966.79,failure,deposit,5083,exceeded limit,canara bank,638117.0
+txn02828,cbb04,saibaba colony,coimbatore,2024-05-07,1434.64,failure,deposit,1973,technical error,canara bank,638559.0
+txn02785,cbb05,singanallur,coimbatore,2024-05-05,3220.29,failure,deposit,5216,network error,canara bank,630975.0
+txn02839,mdb04,simmakkal,madurai,2024-05-05,2690.87,failure,deposit,5598,exceeded limit,canara bank,638244.0
+txn02207,chb03,adyar,chennai,2024-05-06,3915.25,failure,withdrawal,1045,invalid account,canara bank,615211.0
+txn02477,chb01,t nagar,chennai,2024-05-01,4527.3,failure,deposit,5713,invalid account,canara bank,615899.0
+txn02696,cbb04,saibaba colony,coimbatore,2024-05-01,3977.94,failure,withdrawal,3243,technical error,canara bank,633676.0
+txn02488,mdb01,anna nagar,madurai,2024-05-04,1992.02,failure,withdrawal,4941,network error,canara bank,629646.0
+txn02754,mdb01,anna nagar,madurai,2024-05-02,2668.23,failure,withdrawal,4568,technical error,canara bank,641427.0
+txn02300,cbb03,peelamedu,coimbatore,2024-05-02,3428.03,failure,deposit,4821,insufficient balance,canara bank,623185.0
+txn02972,cbb02,rs puram,coimbatore,2024-05-03,4400.32,failure,withdrawal,2353,insufficient balance,canara bank,638377.0
+txn02120,mdb02,k.k. nagar,madurai,2024-05-03,1861.19,failure,transfer,1315,insufficient balance,canara bank,618500.0
+txn02707,cbb01,gandhipuram,coimbatore,2024-05-01,2954.71,failure,deposit,3439,insufficient balance,canara bank,606458.0
+txn02105,chb04,guindy,chennai,2024-05-04,3400.75,failure,transfer,4456,insufficient balance,canara bank,626513.0
+txn02466,cbb04,saibaba colony,coimbatore,2024-05-05,3197.77,failure,transfer,5455,insufficient balance,canara bank,631842.0
+txn02082,cbb03,peelamedu,coimbatore,2024-05-01,4619.27,failure,deposit,8532,network error,canara bank,630404.0
+txn02925,cbb04,saibaba colony,coimbatore,2024-05-06,3319.42,failure,transfer,3515,technical error,canara bank,623884.0
+txn01973,chb02,velachery,chennai,2024-05-07,1046.94,failure,transfer,1623,exceeded limit,canara bank,639484.0
+txn02802,mdb03,thirunagar,madurai,2024-05-03,3033.39,failure,transfer,3960,network error,canara bank,618618.0
+txn02441,mdb03,thirunagar,madurai,2024-05-02,4983.86,failure,deposit,6230,network error,canara bank,604895.0
+txn02664,chb02,velachery,chennai,2024-05-06,3637.41,failure,deposit,5913,invalid account,canara bank,601518.0
+txn02960,cbb04,saibaba colony,coimbatore,2024-05-04,3545.85,failure,withdrawal,4243,exceeded limit,canara bank,631904.0
+txn02443,chb02,velachery,chennai,2024-05-05,2219.71,failure,deposit,6307,exceeded limit,canara bank,606481.0
+txn02904,cbb05,singanallur,coimbatore,2024-05-01,3248.65,failure,withdrawal,5563,invalid account,canara bank,636154.0
+txn02758,chb05,tambaram,chennai,2024-05-04,1549.72,failure,transfer,5278,invalid account,canara bank,616922.0
+txn02026,mdb01,anna nagar,madurai,2024-05-02,4526.63,failure,deposit,7350,network error,canara bank,622811.0
+txn02270,mdb01,anna nagar,madurai,2024-05-02,3582.75,failure,withdrawal,3676,network error,canara bank,612656.0
+txn02912,cbb01,gandhipuram,coimbatore,2024-05-05,2314.86,failure,transfer,7992,network error,canara bank,600521.0
+txn02679,chb01,t nagar,chennai,2024-05-05,4245.16,failure,deposit,1330,network error,canara bank,640532.0
+txn02899,cbb05,singanallur,coimbatore,2024-05-06,3966.0,failure,withdrawal,7225,network error,canara bank,638863.0
+txn02799,chb05,tambaram,chennai,2024-05-03,4082.53,failure,transfer,8340,insufficient balance,canara bank,622068.0
+txn02406,chb03,adyar,chennai,2024-05-04,3938.14,failure,withdrawal,3583,invalid account,canara bank,616141.0
+txn02301,mdb05,tallakulam,madurai,2024-05-07,1129.6,failure,transfer,5593,technical error,canara bank,601151.0
+txn02690,chb02,velachery,chennai,2024-05-06,4915.95,failure,withdrawal,8924,insufficient balance,canara bank,607026.0
+txn02814,mdb05,tallakulam,madurai,2024-05-07,2159.93,failure,transfer,9023,exceeded limit,canara bank,622956.0
+txn02093,cbb04,saibaba colony,coimbatore,2024-05-06,4746.23,failure,deposit,2497,exceeded limit,canara bank,618254.0
+txn02906,cbb02,rs puram,coimbatore,2024-05-01,1539.73,failure,transfer,4287,insufficient balance,canara bank,631299.0
+txn02213,mdb05,tallakulam,madurai,2024-05-05,1043.07,failure,deposit,1717,technical error,canara bank,607751.0
+txn02044,chb02,velachery,chennai,2024-05-04,2306.7,failure,deposit,8882,exceeded limit,canara bank,620250.0
+txn02762,mdb03,thirunagar,madurai,2024-05-03,4468.68,failure,transfer,9820,exceeded limit,canara bank,608888.0
+txn02291,mdb04,simmakkal,madurai,2024-05-01,1280.11,failure,transfer,6452,insufficient balance,canara bank,635426.0
+txn02852,chb05,tambaram,chennai,2024-05-06,1345.54,failure,deposit,6821,technical error,canara bank,624504.0
+txn02004,mdb05,tallakulam,madurai,2024-05-04,3160.95,failure,deposit,3889,insufficient balance,canara bank,621929.0
+txn02878,chb05,tambaram,chennai,2024-05-06,2551.39,failure,transfer,4297,network error,canara bank,609554.0
+txn02378,mdb02,k.k. nagar,madurai,2024-05-02,2109.19,failure,deposit,5271,technical error,canara bank,630015.0
+txn02179,cbb03,peelamedu,coimbatore,2024-05-03,4309.83,failure,withdrawal,1001,invalid account,canara bank,632335.0
+txn02455,chb04,guindy,chennai,2024-05-06,1903.5,failure,deposit,1033,network error,canara bank,641485.0
+txn02507,mdb02,k.k. nagar,madurai,2024-05-05,703.21,failure,transfer,6870,insufficient balance,canara bank,612121.0
+txn02224,chb04,guindy,chennai,2024-05-01,4148.87,failure,deposit,6072,technical error,canara bank,627726.0
+txn02777,mdb05,tallakulam,madurai,2024-05-01,2788.57,failure,deposit,7316,insufficient balance,canara bank,604627.0
+txn02903,cbb05,singanallur,coimbatore,2024-05-06,1841.12,failure,withdrawal,8945,exceeded limit,canara bank,641887.0
+txn02458,cbb05,singanallur,coimbatore,2024-05-05,4918.89,failure,transfer,4619,insufficient balance,canara bank,602008.0
+txn02068,chb02,velachery,chennai,2024-05-07,1231.36,failure,withdrawal,2428,invalid account,canara bank,637338.0
+txn02327,mdb02,k.k. nagar,madurai,2024-05-07,4137.9,failure,transfer,9002,insufficient balance,canara bank,626332.0
+txn02289,cbb01,gandhipuram,coimbatore,2024-05-06,785.85,failure,deposit,5016,exceeded limit,canara bank,612714.0
+txn02720,cbb04,saibaba colony,coimbatore,2024-05-06,3579.6,failure,deposit,9208,technical error,canara bank,627216.0
+txn02323,mdb01,anna nagar,madurai,2024-05-07,1200.0,failure,deposit,8847,exceeded limit,canara bank,605196.0
+txn02603,chb02,velachery,chennai,2024-05-01,4740.85,failure,withdrawal,3272,exceeded limit,canara bank,627741.0
+txn02222,cbb04,saibaba colony,coimbatore,2024-05-02,4401.3,failure,transfer,7078,network error,canara bank,608084.0
+txn02160,chb02,velachery,chennai,2024-05-04,544.3,failure,deposit,2089,invalid account,canara bank,619497.0
+txn02419,chb04,guindy,chennai,2024-05-07,1436.99,failure,deposit,7218,insufficient balance,canara bank,630903.0
+txn02667,mdb03,thirunagar,madurai,2024-05-02,854.01,failure,transfer,2647,insufficient balance,canara bank,609322.0
+txn02034,mdb01,anna nagar,madurai,2024-05-03,1665.72,failure,transfer,1566,technical error,canara bank,614757.0
+txn01988,mdb01,anna nagar,madurai,2024-05-04,4584.23,failure,withdrawal,2613,network error,canara bank,615350.0
+txn02650,chb03,adyar,chennai,2024-05-03,3760.49,failure,withdrawal,7239,exceeded limit,canara bank,635978.0
+txn02045,mdb03,thirunagar,madurai,2024-05-03,1220.24,failure,deposit,7290,network error,canara bank,639014.0
+txn02869,mdb02,k.k. nagar,madurai,2024-05-05,3159.55,failure,deposit,7661,technical error,canara bank,639188.0
+txn02220,chb05,tambaram,chennai,2024-05-01,1059.6,failure,deposit,2978,technical error,canara bank,639010.0
+txn02547,cbb04,saibaba colony,coimbatore,2024-05-05,3562.85,failure,deposit,4981,network error,canara bank,629145.0
+txn02009,cbb02,rs puram,coimbatore,2024-05-04,4327.42,failure,transfer,1452,network error,canara bank,634536.0
+txn02354,cbb01,gandhipuram,coimbatore,2024-05-03,559.08,failure,deposit,3712,insufficient balance,canara bank,633661.0
+txn02104,chb02,velachery,chennai,2024-05-04,1701.54,failure,withdrawal,9342,network error,canara bank,613847.0
+txn02590,cbb05,singanallur,coimbatore,2024-05-04,2074.4,failure,withdrawal,7596,exceeded limit,canara bank,626655.0
+txn01958,mdb02,k.k. nagar,madurai,2024-05-01,3176.04,failure,transfer,1810,insufficient balance,canara bank,605864.0
+txn02461,cbb01,gandhipuram,coimbatore,2024-05-04,1202.28,failure,withdrawal,3183,invalid account,canara bank,626549.0
+txn02752,chb04,guindy,chennai,2024-05-06,1235.04,failure,withdrawal,5847,invalid account,canara bank,633810.0
+txn02229,cbb05,singanallur,coimbatore,2024-05-04,3074.37,failure,withdrawal,3112,network error,canara bank,616755.0
+txn02998,cbb03,peelamedu,coimbatore,2024-05-07,1743.55,failure,deposit,3319,technical error,canara bank,615199.0
+txn02964,chb01,t nagar,chennai,2024-05-03,1353.03,failure,transfer,8669,invalid account,canara bank,610812.0
+txn02484,chb03,adyar,chennai,2024-05-07,1993.7,failure,withdrawal,6643,exceeded limit,canara bank,624385.0
+txn02942,chb03,adyar,chennai,2024-05-05,4824.24,failure,deposit,2175,invalid account,canara bank,635164.0
+txn02529,cbb04,saibaba colony,coimbatore,2024-05-03,3197.47,failure,transfer,9228,exceeded limit,canara bank,624903.0
+txn02581,mdb03,thirunagar,madurai,2024-05-03,2419.11,failure,deposit,1072,technical error,canara bank,630613.0
+txn02459,cbb01,gandhipuram,coimbatore,2024-05-05,4956.84,failure,transfer,6582,exceeded limit,canara bank,629585.0
+txn02987,cbb02,rs puram,coimbatore,2024-05-01,1768.73,failure,transfer,9456,exceeded limit,canara bank,636761.0
+txn02929,cbb04,saibaba colony,coimbatore,2024-05-06,2803.99,failure,withdrawal,7478,insufficient balance,canara bank,629217.0
+txn02573,cbb02,rs puram,coimbatore,2024-05-05,2163.28,failure,withdrawal,4922,network error,canara bank,637913.0
+txn02553,chb04,guindy,chennai,2024-05-07,2531.11,failure,transfer,7242,insufficient balance,canara bank,633392.0
+txn02977,chb04,guindy,chennai,2024-05-04,1344.11,failure,deposit,6539,network error,canara bank,603798.0
+txn02321,mdb05,tallakulam,madurai,2024-05-03,2163.17,failure,transfer,7399,network error,canara bank,626542.0
+txn02635,chb05,tambaram,chennai,2024-05-07,2086.16,failure,withdrawal,6749,insufficient balance,canara bank,635022.0
+txn02563,mdb01,anna nagar,madurai,2024-05-03,2817.73,failure,deposit,8820,invalid account,canara bank,630021.0
+txn02792,chb03,adyar,chennai,2024-05-05,932.57,failure,withdrawal,7633,invalid account,canara bank,""
+txn02335,mdb01,anna nagar,madurai,2024-05-03,1071.4,failure,deposit,9598,exceeded limit,canara bank,640493.0
+txn02928,chb02,velachery,chennai,2024-05-04,1320.77,failure,withdrawal,4564,technical error,canara bank,624300.0
+txn02932,cbb01,gandhipuram,coimbatore,2024-05-02,3076.64,failure,transfer,5543,invalid account,canara bank,606290.0
+txn02571,chb03,adyar,chennai,2024-05-07,626.38,failure,transfer,4397,invalid account,canara bank,612426.0
+txn02282,cbb03,peelamedu,coimbatore,2024-05-03,3882.24,failure,withdrawal,9086,invalid account,canara bank,606546.0
+txn02588,mdb01,anna nagar,madurai,2024-05-03,3824.87,failure,withdrawal,8324,exceeded limit,canara bank,606157.0
+txn02013,mdb01,anna nagar,madurai,2024-05-04,979.74,failure,deposit,1937,invalid account,canara bank,610330.0
+txn02502,chb02,velachery,chennai,2024-05-05,2457.88,failure,deposit,2485,exceeded limit,canara bank,610351.0
+txn02944,cbb03,peelamedu,coimbatore,2024-05-01,1504.63,failure,withdrawal,8992,invalid account,canara bank,606242.0
+txn02897,cbb02,rs puram,coimbatore,2024-05-06,753.33,failure,transfer,6429,network error,canara bank,608264.0
+txn02528,mdb02,k.k. nagar,madurai,2024-05-07,1594.8,failure,transfer,2198,network error,canara bank,609385.0
+txn02265,mdb05,tallakulam,madurai,2024-05-03,4162.4,failure,deposit,5621,technical error,canara bank,613602.0
+txn02496,mdb02,k.k. nagar,madurai,2024-05-03,997.75,failure,withdrawal,6603,network error,canara bank,626105.0
+txn02283,chb03,adyar,chennai,2024-05-04,2439.29,failure,deposit,1112,insufficient balance,canara bank,625325.0
+txn02572,cbb03,peelamedu,coimbatore,2024-05-06,2926.03,failure,transfer,6697,exceeded limit,canara bank,621441.0
+txn02303,mdb04,simmakkal,madurai,2024-05-06,2569.26,failure,withdrawal,9725,exceeded limit,canara bank,630165.0
+txn02435,mdb03,thirunagar,madurai,2024-05-01,3777.67,failure,deposit,8113,exceeded limit,canara bank,639355.0
+txn02331,mdb04,simmakkal,madurai,2024-05-01,1591.75,failure,withdrawal,1724,exceeded limit,canara bank,632168.0
+txn02616,chb04,guindy,chennai,2024-05-04,1266.77,failure,transfer,1405,technical error,canara bank,605397.0
+txn02678,mdb04,simmakkal,madurai,2024-05-04,1219.03,failure,transfer,1970,exceeded limit,canara bank,637423.0
+txn01979,chb03,adyar,chennai,2024-05-07,1453.47,failure,transfer,2843,technical error,canara bank,635272.0
+txn02877,cbb05,singanallur,coimbatore,2024-05-02,1126.19,failure,transfer,6762,exceeded limit,canara bank,608488.0
+txn02728,cbb05,singanallur,coimbatore,2024-05-02,1007.13,failure,withdrawal,9714,exceeded limit,canara bank,613580.0
+txn02462,cbb01,gandhipuram,coimbatore,2024-05-03,2222.52,failure,deposit,8805,insufficient balance,canara bank,602808.0
+txn01961,mdb04,simmakkal,madurai,2024-05-02,3922.52,failure,withdrawal,1834,technical error,canara bank,616933.0
+txn02867,cbb05,singanallur,coimbatore,2024-05-05,1863.86,failure,withdrawal,6239,exceeded limit,canara bank,626659.0
+txn02361,cbb01,gandhipuram,coimbatore,2024-05-05,3858.15,failure,withdrawal,7780,exceeded limit,canara bank,605110.0
+txn01971,cbb03,peelamedu,coimbatore,2024-05-04,4402.09,failure,transfer,1515,insufficient balance,canara bank,611123.0
+txn02674,chb04,guindy,chennai,2024-05-02,2947.17,failure,deposit,7811,exceeded limit,canara bank,613094.0
+txn02469,chb05,tambaram,chennai,2024-05-02,1314.42,failure,transfer,3539,invalid account,canara bank,600864.0
+txn02061,cbb01,gandhipuram,coimbatore,2024-05-05,2000.95,failure,transfer,6886,technical error,canara bank,634761.0
+txn02545,cbb05,singanallur,coimbatore,2024-05-04,4360.86,failure,deposit,7120,insufficient balance,canara bank,634063.0
+txn02708,chb05,tambaram,chennai,2024-05-06,2961.07,failure,withdrawal,4867,network error,canara bank,602067.0
+txn02393,cbb04,saibaba colony,coimbatore,2024-05-02,1426.13,failure,transfer,9508,network error,canara bank,608437.0
+txn02069,mdb02,k.k. nagar,madurai,2024-05-05,551.5,failure,deposit,7840,exceeded limit,canara bank,611157.0
+txn02862,mdb01,anna nagar,madurai,2024-05-02,784.91,failure,withdrawal,3535,exceeded limit,canara bank,612662.0
+txn02274,mdb05,tallakulam,madurai,2024-05-06,2673.85,failure,withdrawal,9956,invalid account,canara bank,604417.0
+txn02508,chb01,t nagar,chennai,2024-05-04,928.49,failure,transfer,1798,insufficient balance,canara bank,637779.0
+txn02392,chb03,adyar,chennai,2024-05-01,1652.43,failure,transfer,3321,insufficient balance,canara bank,606256.0
+txn02907,cbb03,peelamedu,coimbatore,2024-05-06,4042.81,failure,withdrawal,3599,technical error,canara bank,640807.0
+txn02985,mdb02,k.k. nagar,madurai,2024-05-07,2592.64,failure,deposit,7114,insufficient balance,canara bank,631666.0
+txn02008,chb04,guindy,chennai,2024-05-05,3179.2,failure,withdrawal,9188,invalid account,canara bank,622562.0
+txn02162,chb03,adyar,chennai,2024-05-06,4711.03,failure,deposit,4567,invalid account,canara bank,607747.0
+txn02561,mdb01,anna nagar,madurai,2024-05-01,1768.3,failure,withdrawal,4964,insufficient balance,canara bank,622844.0
+txn02427,cbb05,singanallur,coimbatore,2024-05-03,2775.32,failure,transfer,2309,insufficient balance,canara bank,611897.0
+txn02014,mdb05,tallakulam,madurai,2024-05-03,1013.09,failure,withdrawal,7621,technical error,canara bank,636272.0
+txn02890,cbb01,gandhipuram,coimbatore,2024-05-04,3412.19,failure,deposit,1377,insufficient balance,canara bank,606403.0
+txn02894,cbb02,rs puram,coimbatore,2024-05-05,1258.2,failure,transfer,5748,invalid account,canara bank,604812.0
+txn02940,cbb01,gandhipuram,coimbatore,2024-05-03,1447.29,failure,transfer,8599,exceeded limit,canara bank,608192.0
+txn02735,cbb01,gandhipuram,coimbatore,2024-05-01,4585.29,failure,deposit,7178,network error,canara bank,637946.0
+txn02591,cbb01,gandhipuram,coimbatore,2024-05-05,3242.3,failure,transfer,7187,technical error,canara bank,""
+txn02576,chb01,t nagar,chennai,2024-05-06,1986.13,failure,withdrawal,7968,exceeded limit,canara bank,635918.0
+txn02498,chb04,guindy,chennai,2024-05-02,4253.43,failure,transfer,7206,insufficient balance,canara bank,610627.0
+txn02493,cbb03,peelamedu,coimbatore,2024-05-03,2569.24,failure,withdrawal,3954,invalid account,canara bank,600600.0
+txn02158,chb03,adyar,chennai,2024-05-05,1277.0,failure,transfer,5120,technical error,canara bank,616189.0
+txn02201,cbb02,rs puram,coimbatore,2024-05-02,3461.63,failure,deposit,7607,insufficient balance,canara bank,619351.0
+txn02719,cbb01,gandhipuram,coimbatore,2024-05-05,1337.29,failure,withdrawal,9167,insufficient balance,canara bank,615488.0
+txn02973,cbb05,singanallur,coimbatore,2024-05-05,4127.13,failure,deposit,6458,technical error,canara bank,620063.0
+txn02653,mdb02,k.k. nagar,madurai,2024-05-07,2374.21,failure,withdrawal,4536,exceeded limit,canara bank,625667.0
+txn02318,mdb04,simmakkal,madurai,2024-05-04,2733.8,failure,withdrawal,4318,technical error,canara bank,634396.0
+txn02523,cbb04,saibaba colony,coimbatore,2024-05-06,2424.1,failure,withdrawal,5031,network error,canara bank,609907.0
+txn02440,chb01,t nagar,chennai,2024-05-07,3963.69,failure,withdrawal,9223,invalid account,canara bank,619816.0
+txn02032,chb02,velachery,chennai,2024-05-01,2955.38,failure,transfer,2692,technical error,canara bank,611257.0
+txn02731,mdb05,tallakulam,madurai,2024-05-07,4825.81,failure,deposit,1463,invalid account,canara bank,635474.0
+txn02348,mdb01,anna nagar,madurai,2024-05-03,3016.45,failure,transfer,5985,network error,canara bank,614862.0
+txn02006,cbb02,rs puram,coimbatore,2024-05-05,2381.54,failure,deposit,6363,technical error,canara bank,629451.0
+txn02967,chb01,t nagar,chennai,2024-05-06,731.97,failure,withdrawal,4740,invalid account,canara bank,641215.0
+txn02786,cbb01,gandhipuram,coimbatore,2024-05-06,2870.65,failure,withdrawal,5168,insufficient balance,canara bank,633275.0
+txn02689,mdb02,k.k. nagar,madurai,2024-05-06,1846.2,failure,withdrawal,7103,network error,canara bank,605542.0
+txn02029,mdb03,thirunagar,madurai,2024-05-03,4897.54,failure,transfer,9015,invalid account,canara bank,640858.0
+txn02349,chb02,velachery,chennai,2024-05-03,907.12,failure,transfer,7108,insufficient balance,canara bank,636045.0
+txn02789,chb03,adyar,chennai,2024-05-07,4247.89,failure,transfer,6691,network error,canara bank,636664.0
+txn02139,cbb05,singanallur,coimbatore,2024-05-06,4195.94,failure,withdrawal,1096,insufficient balance,canara bank,611708.0
+txn02490,cbb04,saibaba colony,coimbatore,2024-05-01,4669.0,failure,withdrawal,2132,invalid account,canara bank,638519.0
+txn02173,cbb01,gandhipuram,coimbatore,2024-05-06,1235.15,failure,deposit,2188,network error,canara bank,631599.0
+txn02781,cbb02,rs puram,coimbatore,2024-05-02,2917.67,failure,deposit,5096,insufficient balance,canara bank,604288.0
+txn02195,chb02,velachery,chennai,2024-05-01,4696.43,failure,transfer,8674,invalid account,canara bank,617279.0
+txn01964,cbb05,singanallur,coimbatore,2024-05-02,3677.76,failure,deposit,8742,network error,canara bank,636577.0
+txn02540,cbb04,saibaba colony,coimbatore,2024-05-05,4679.64,failure,deposit,3342,insufficient balance,canara bank,627637.0
+txn02175,cbb04,saibaba colony,coimbatore,2024-05-02,3390.64,failure,deposit,9131,invalid account,canara bank,604071.0
+txn02646,cbb05,singanallur,coimbatore,2024-05-04,2135.66,failure,withdrawal,5723,insufficient balance,canara bank,621407.0
+txn02346,cbb04,saibaba colony,coimbatore,2024-05-06,4626.48,failure,transfer,3413,exceeded limit,canara bank,615305.0
+txn02537,mdb04,simmakkal,madurai,2024-05-05,1820.77,failure,withdrawal,3617,network error,canara bank,618264.0
+txn02181,cbb01,gandhipuram,coimbatore,2024-05-01,3613.23,failure,withdrawal,7775,invalid account,canara bank,604995.0
+txn01967,mdb05,tallakulam,madurai,2024-05-01,4006.39,failure,withdrawal,3533,network error,canara bank,613291.0
+txn02421,mdb04,simmakkal,madurai,2024-05-07,2668.88,failure,transfer,1312,technical error,canara bank,609171.0
+txn02779,mdb02,k.k. nagar,madurai,2024-05-01,3353.78,failure,deposit,4962,exceeded limit,canara bank,625050.0
+txn02578,cbb02,rs puram,coimbatore,2024-05-02,4554.28,failure,withdrawal,3928,exceeded limit,canara bank,625183.0
+txn02259,chb04,guindy,chennai,2024-05-04,2391.12,failure,withdrawal,1039,exceeded limit,canara bank,610480.0
+txn02670,chb01,t nagar,chennai,2024-05-05,2135.65,failure,deposit,9659,network error,canara bank,636308.0
+txn02382,mdb01,anna nagar,madurai,2024-05-01,949.57,failure,transfer,9780,exceeded limit,canara bank,615939.0
+txn02750,chb02,velachery,chennai,2024-05-04,4644.15,failure,deposit,2259,exceeded limit,canara bank,640234.0
+txn02305,cbb03,peelamedu,coimbatore,2024-05-06,2852.06,failure,deposit,4300,insufficient balance,canara bank,632825.0
+txn02059,chb05,tambaram,chennai,2024-05-05,4937.8,failure,withdrawal,6804,insufficient balance,canara bank,623460.0
+txn02052,cbb01,gandhipuram,coimbatore,2024-05-02,1247.97,failure,deposit,2028,invalid account,canara bank,615092.0
+txn02470,mdb03,thirunagar,madurai,2024-05-04,1970.34,failure,deposit,9618,network error,canara bank,623457.0
+txn02209,chb03,adyar,chennai,2024-05-04,4158.3,failure,withdrawal,1097,network error,canara bank,625446.0
+txn02727,cbb01,gandhipuram,coimbatore,2024-05-06,1841.86,failure,transfer,2675,invalid account,canara bank,612162.0
+txn02123,cbb03,peelamedu,coimbatore,2024-05-05,2887.26,failure,withdrawal,4801,technical error,canara bank,633596.0
+txn02170,chb01,t nagar,chennai,2024-05-04,3464.97,failure,deposit,1045,exceeded limit,canara bank,640350.0
+txn02023,mdb02,k.k. nagar,madurai,2024-05-05,646.3,failure,withdrawal,6326,invalid account,canara bank,603989.0
+txn02516,cbb03,peelamedu,coimbatore,2024-05-04,3802.63,failure,deposit,8273,insufficient balance,canara bank,607751.0
+txn02118,cbb01,gandhipuram,coimbatore,2024-05-05,2403.0,failure,withdrawal,5299,network error,canara bank,626557.0
+txn02164,mdb04,simmakkal,madurai,2024-05-02,649.27,failure,transfer,9849,exceeded limit,canara bank,621446.0
+txn02190,chb05,tambaram,chennai,2024-05-01,3564.38,failure,transfer,7268,exceeded limit,canara bank,610507.0
+txn01998,cbb03,peelamedu,coimbatore,2024-05-07,3882.83,failure,transfer,9652,exceeded limit,canara bank,609667.0
+txn02387,mdb01,anna nagar,madurai,2024-05-02,4386.76,failure,transfer,4242,network error,canara bank,604726.0
+txn02381,cbb04,saibaba colony,coimbatore,2024-05-04,926.41,failure,deposit,1848,technical error,canara bank,624509.0
+txn02278,chb05,tambaram,chennai,2024-05-02,4869.79,failure,transfer,8287,network error,canara bank,613195.0
+txn02485,mdb05,tallakulam,madurai,2024-05-03,3640.43,failure,deposit,9924,invalid account,canara bank,612228.0
+txn01984,mdb02,k.k. nagar,madurai,2024-05-02,3504.86,failure,transfer,6406,network error,canara bank,620307.0
+txn02065,chb05,tambaram,chennai,2024-05-04,1259.48,failure,deposit,3828,network error,canara bank,622962.0
+txn02978,chb05,tambaram,chennai,2024-05-07,3416.31,failure,transfer,2642,technical error,canara bank,614182.0
+txn02895,mdb01,anna nagar,madurai,2024-05-03,2568.21,failure,transfer,1782,invalid account,canara bank,615294.0
+txn02212,mdb05,tallakulam,madurai,2024-05-06,894.79,failure,transfer,8027,invalid account,canara bank,600526.0
+txn02144,cbb02,rs puram,coimbatore,2024-05-04,1932.1,failure,transfer,6051,insufficient balance,canara bank,623065.0
+txn02316,chb04,guindy,chennai,2024-05-03,4207.65,failure,transfer,9882,exceeded limit,canara bank,603646.0
+txn02756,chb05,tambaram,chennai,2024-05-06,3828.95,failure,withdrawal,2093,invalid account,canara bank,632345.0
+txn02246,mdb02,k.k. nagar,madurai,2024-05-02,3925.15,failure,deposit,9458,invalid account,canara bank,619225.0
+txn02691,cbb01,gandhipuram,coimbatore,2024-05-04,1161.85,failure,transfer,2879,exceeded limit,canara bank,639647.0
+txn02711,mdb01,anna nagar,madurai,2024-05-06,4722.85,failure,withdrawal,5022,exceeded limit,canara bank,639337.0
+txn02409,mdb03,thirunagar,madurai,2024-05-02,1798.45,failure,withdrawal,5436,exceeded limit,canara bank,628463.0
+txn02820,chb04,guindy,chennai,2024-05-03,1759.73,failure,withdrawal,8552,exceeded limit,canara bank,628050.0
+txn02184,cbb04,saibaba colony,coimbatore,2024-05-02,4872.2,failure,deposit,2202,technical error,canara bank,623201.0
+txn02185,mdb01,anna nagar,madurai,2024-05-03,2058.43,failure,transfer,2295,insufficient balance,canara bank,621035.0
+txn02169,mdb01,anna nagar,madurai,2024-05-06,4944.82,failure,withdrawal,7591,technical error,canara bank,608632.0
+txn02277,chb03,adyar,chennai,2024-05-05,2427.72,failure,withdrawal,5412,technical error,canara bank,625351.0
+txn02499,cbb02,rs puram,coimbatore,2024-05-03,2534.8,failure,deposit,4488,network error,canara bank,609464.0
+txn02748,chb01,t nagar,chennai,2024-05-01,3936.24,failure,transfer,1212,exceeded limit,canara bank,605038.0
+txn02638,mdb02,k.k. nagar,madurai,2024-05-05,4765.52,failure,transfer,9049,invalid account,canara bank,641908.0
+txn02559,cbb04,saibaba colony,coimbatore,2024-05-01,2638.37,failure,transfer,1983,technical error,canara bank,603198.0
+txn02448,mdb01,anna nagar,madurai,2024-05-07,4682.46,failure,deposit,8145,exceeded limit,canara bank,633429.0
+txn02204,mdb02,k.k. nagar,madurai,2024-05-06,4529.3,failure,deposit,8271,insufficient balance,canara bank,618958.0
+txn02149,mdb04,simmakkal,madurai,2024-05-04,1185.22,failure,deposit,3083,network error,canara bank,628043.0
+txn02413,mdb04,simmakkal,madurai,2024-05-07,3401.88,failure,withdrawal,4219,technical error,canara bank,614720.0
+txn02497,mdb01,anna nagar,madurai,2024-05-03,2905.6,failure,withdrawal,8512,invalid account,canara bank,638336.0
+txn02723,chb04,guindy,chennai,2024-05-01,1380.19,failure,transfer,8828,invalid account,canara bank,603050.0
+txn02041,cbb05,singanallur,coimbatore,2024-05-06,3831.89,failure,transfer,4776,insufficient balance,canara bank,608279.0
+txn02253,chb04,guindy,chennai,2024-05-06,2778.04,failure,deposit,7527,exceeded limit,canara bank,619579.0
+txn02549,mdb04,simmakkal,madurai,2024-05-04,2300.9,failure,transfer,8295,insufficient balance,canara bank,625915.0
+txn02225,chb04,guindy,chennai,2024-05-01,1833.5,failure,transfer,3527,exceeded limit,canara bank,626615.0
+txn02831,cbb02,rs puram,coimbatore,2024-05-05,4924.36,failure,withdrawal,7924,invalid account,canara bank,616122.0
+txn02011,mdb02,k.k. nagar,madurai,2024-05-02,768.36,failure,deposit,3874,network error,canara bank,631598.0
+txn02426,mdb05,tallakulam,madurai,2024-05-07,4129.37,failure,transfer,5924,insufficient balance,canara bank,614106.0
+txn02197,mdb05,tallakulam,madurai,2024-05-05,2673.36,failure,deposit,3755,insufficient balance,canara bank,607700.0
+txn02480,chb02,velachery,chennai,2024-05-01,3387.02,failure,transfer,4658,insufficient balance,canara bank,625266.0
+txn02239,chb01,t nagar,chennai,2024-05-05,2119.46,failure,withdrawal,4963,network error,canara bank,612430.0
+txn02180,cbb01,gandhipuram,coimbatore,2024-05-04,3874.07,failure,transfer,7815,network error,canara bank,614778.0
+txn02494,mdb03,thirunagar,madurai,2024-05-06,1328.84,failure,transfer,3307,invalid account,canara bank,611411.0
+txn02194,mdb05,tallakulam,madurai,2024-05-02,4401.28,failure,transfer,4878,invalid account,canara bank,627363.0
+txn02453,chb03,adyar,chennai,2024-05-01,2349.34,failure,transfer,8099,network error,canara bank,625464.0
+txn02151,mdb01,anna nagar,madurai,2024-05-02,2177.75,failure,withdrawal,8939,network error,canara bank,608841.0
+txn02325,mdb05,tallakulam,madurai,2024-05-01,3344.16,failure,withdrawal,2445,technical error,canara bank,635837.0
+txn02937,cbb02,rs puram,coimbatore,2024-05-06,4259.05,failure,deposit,8076,technical error,canara bank,630852.0
+txn02007,cbb03,peelamedu,coimbatore,2024-05-07,539.76,failure,deposit,6270,exceeded limit,canara bank,629507.0
+txn02859,mdb01,anna nagar,madurai,2024-05-02,4822.33,failure,deposit,5230,exceeded limit,canara bank,612392.0
+txn02922,cbb01,gandhipuram,coimbatore,2024-05-05,4507.39,failure,withdrawal,5379,exceeded limit,canara bank,641484.0
+txn02100,mdb03,thirunagar,madurai,2024-05-07,2828.88,failure,transfer,1549,insufficient balance,canara bank,609775.0
+txn02712,chb04,guindy,chennai,2024-05-06,2796.26,failure,transfer,6017,exceeded limit,canara bank,628077.0
+txn02251,chb04,guindy,chennai,2024-05-07,1779.56,failure,deposit,4497,network error,canara bank,612079.0
+txn02524,chb04,guindy,chennai,2024-05-01,2926.18,failure,transfer,3544,insufficient balance,canara bank,609048.0
+txn02167,cbb02,rs puram,coimbatore,2024-05-01,3066.02,failure,withdrawal,7989,exceeded limit,canara bank,639888.0
+txn02611,chb01,t nagar,chennai,2024-05-01,755.89,failure,deposit,1858,technical error,canara bank,639007.0
+txn02122,chb01,t nagar,chennai,2024-05-05,2029.9,failure,transfer,8195,network error,canara bank,600131.0
+txn02092,chb01,t nagar,chennai,2024-05-01,3180.29,failure,deposit,9206,invalid account,canara bank,641014.0
+txn02428,mdb04,simmakkal,madurai,2024-05-06,4599.69,failure,transfer,5786,technical error,canara bank,630158.0
+txn02979,cbb04,saibaba colony,coimbatore,2024-05-05,1854.09,failure,deposit,9799,invalid account,canara bank,632549.0
+txn02268,chb05,tambaram,chennai,2024-05-05,3667.5,failure,transfer,2222,insufficient balance,canara bank,621598.0
+txn02035,chb02,velachery,chennai,2024-05-03,4807.03,failure,deposit,4379,network error,canara bank,600430.0
+txn02244,chb05,tambaram,chennai,2024-05-07,2021.66,failure,deposit,1765,network error,canara bank,615618.0
+txn02467,chb05,tambaram,chennai,2024-05-02,534.68,failure,withdrawal,3760,network error,canara bank,632867.0
+txn02565,mdb03,thirunagar,madurai,2024-05-04,1768.25,failure,deposit,8979,exceeded limit,canara bank,635974.0
+txn01972,mdb03,thirunagar,madurai,2024-05-06,4406.57,failure,deposit,3211,network error,canara bank,625904.0
+txn02137,chb04,guindy,chennai,2024-05-01,3360.21,failure,deposit,7902,network error,canara bank,617339.0
+txn02639,cbb01,gandhipuram,coimbatore,2024-05-06,1548.12,failure,deposit,3314,technical error,canara bank,612857.0
+txn02487,chb05,tambaram,chennai,2024-05-05,4104.51,failure,withdrawal,1242,exceeded limit,canara bank,604370.0
+txn01965,mdb04,simmakkal,madurai,2024-05-05,3851.05,failure,withdrawal,3254,exceeded limit,canara bank,639240.0
+txn02811,chb04,guindy,chennai,2024-05-02,1953.84,failure,withdrawal,4616,insufficient balance,canara bank,605544.0
+txn02098,cbb03,peelamedu,coimbatore,2024-05-04,1653.83,failure,withdrawal,8657,network error,canara bank,625409.0
+txn02211,cbb04,saibaba colony,coimbatore,2024-05-02,2452.88,failure,deposit,7077,insufficient balance,canara bank,608472.0
+txn02957,cbb04,saibaba colony,coimbatore,2024-05-05,4057.6,failure,withdrawal,1547,exceeded limit,canara bank,635586.0
+txn02414,cbb03,peelamedu,coimbatore,2024-05-02,4730.84,failure,withdrawal,7730,technical error,canara bank,621531.0
+txn02767,chb02,velachery,chennai,2024-05-03,1096.72,failure,deposit,3797,invalid account,canara bank,606165.0
+txn02551,chb01,t nagar,chennai,2024-05-01,4947.98,failure,deposit,1443,insufficient balance,canara bank,633948.0
+txn02117,chb04,guindy,chennai,2024-05-06,1952.86,failure,deposit,4823,exceeded limit,canara bank,605927.0
+txn02817,chb05,tambaram,chennai,2024-05-03,2313.35,failure,transfer,7185,network error,canara bank,615246.0
+txn01968,mdb05,tallakulam,madurai,2024-05-07,3146.35,failure,withdrawal,5117,exceeded limit,canara bank,632140.0
+txn02431,chb02,velachery,chennai,2024-05-03,4033.7,failure,transfer,1451,insufficient balance,canara bank,626304.0
+txn02429,chb05,tambaram,chennai,2024-05-04,2531.74,failure,transfer,1419,exceeded limit,canara bank,636091.0
+txn01983,cbb04,saibaba colony,coimbatore,2024-05-06,2141.28,failure,transfer,7359,invalid account,canara bank,626495.0
+txn02594,mdb02,k.k. nagar,madurai,2024-05-06,1320.35,failure,deposit,2244,invalid account,canara bank,615983.0
+txn02640,chb01,t nagar,chennai,2024-05-01,3789.89,failure,deposit,6568,insufficient balance,canara bank,604182.0
+txn02657,chb04,guindy,chennai,2024-05-05,3607.29,failure,transfer,1518,invalid account,canara bank,601559.0
+txn02312,cbb02,rs puram,coimbatore,2024-05-04,4204.98,failure,withdrawal,6118,exceeded limit,canara bank,640820.0
+txn02968,cbb03,peelamedu,coimbatore,2024-05-05,4161.92,failure,withdrawal,1412,technical error,canara bank,611411.0
+txn02704,mdb01,anna nagar,madurai,2024-05-05,3699.43,failure,deposit,4933,exceeded limit,canara bank,635502.0
+txn02637,chb03,adyar,chennai,2024-05-07,696.14,failure,transfer,4008,invalid account,canara bank,617680.0
+txn02178,mdb04,simmakkal,madurai,2024-05-02,1444.85,failure,deposit,4110,invalid account,canara bank,612049.0
+txn02352,mdb01,anna nagar,madurai,2024-05-03,3843.55,failure,transfer,6844,technical error,canara bank,618576.0
+txn02355,mdb01,anna nagar,madurai,2024-05-04,3040.45,failure,deposit,5696,insufficient balance,canara bank,614938.0
+txn02451,chb04,guindy,chennai,2024-05-01,4021.06,failure,withdrawal,3774,network error,canara bank,609946.0
+txn02991,cbb02,rs puram,coimbatore,2024-05-05,3567.79,failure,withdrawal,5098,technical error,canara bank,602176.0
+txn02219,mdb05,tallakulam,madurai,2024-05-02,697.3,failure,withdrawal,5612,invalid account,canara bank,621587.0
+txn02846,chb05,tambaram,chennai,2024-05-04,2192.43,failure,withdrawal,8938,invalid account,canara bank,629562.0
+txn02503,chb04,guindy,chennai,2024-05-03,4780.75,failure,transfer,3274,network error,canara bank,601733.0
+txn02902,chb02,velachery,chennai,2024-05-03,1443.51,failure,withdrawal,9355,technical error,canara bank,622469.0
+txn02171,cbb04,saibaba colony,coimbatore,2024-05-01,4714.01,failure,withdrawal,6459,exceeded limit,canara bank,610023.0
+txn02077,cbb04,saibaba colony,coimbatore,2024-05-07,1084.1,failure,withdrawal,4578,technical error,canara bank,623199.0
+txn02687,cbb04,saibaba colony,coimbatore,2024-05-04,1331.62,failure,transfer,2047,insufficient balance,canara bank,621708.0
+txn02511,mdb03,thirunagar,madurai,2024-05-04,947.53,failure,deposit,4018,invalid account,canara bank,624680.0
+txn02955,chb02,velachery,chennai,2024-05-05,4210.91,failure,deposit,1316,insufficient balance,canara bank,630155.0
+txn02070,mdb04,simmakkal,madurai,2024-05-01,1104.7,failure,withdrawal,1004,invalid account,canara bank,622459.0
+txn02336,mdb02,k.k. nagar,madurai,2024-05-05,1732.32,failure,withdrawal,5315,insufficient balance,canara bank,620394.0
+txn02051,mdb05,tallakulam,madurai,2024-05-02,3469.3,failure,transfer,5400,invalid account,canara bank,609007.0
+txn02677,chb02,velachery,chennai,2024-05-07,2409.42,failure,transfer,5219,technical error,canara bank,607768.0
+txn02602,chb05,tambaram,chennai,2024-05-04,4932.28,failure,withdrawal,5647,network error,canara bank,610209.0
+txn02064,mdb05,tallakulam,madurai,2024-05-07,1257.27,failure,withdrawal,4550,invalid account,canara bank,624461.0
+txn02359,chb04,guindy,chennai,2024-05-07,3354.87,failure,transfer,1484,technical error,canara bank,638348.0
+txn02805,mdb05,tallakulam,madurai,2024-05-07,4767.76,failure,withdrawal,6622,invalid account,canara bank,602986.0
+txn02396,chb01,t nagar,chennai,2024-05-01,3911.74,failure,withdrawal,9752,invalid account,canara bank,613702.0
+txn02146,cbb03,peelamedu,coimbatore,2024-05-07,4737.34,failure,transfer,1266,network error,canara bank,626222.0
+txn02271,mdb05,tallakulam,madurai,2024-05-06,4619.39,failure,withdrawal,5918,network error,canara bank,641745.0
+txn02747,mdb02,k.k. nagar,madurai,2024-05-05,4338.26,failure,transfer,1877,exceeded limit,canara bank,634761.0
+txn02824,mdb03,thirunagar,madurai,2024-05-02,3143.45,failure,deposit,8309,exceeded limit,canara bank,616630.0
+txn02025,chb05,tambaram,chennai,2024-05-02,1072.49,failure,transfer,3588,exceeded limit,canara bank,611809.0
+txn02631,cbb03,peelamedu,coimbatore,2024-05-05,2644.8,failure,withdrawal,3495,exceeded limit,canara bank,621150.0
+txn02584,cbb01,gandhipuram,coimbatore,2024-05-01,4454.69,failure,transfer,5792,network error,canara bank,620909.0
+txn01966,chb02,velachery,chennai,2024-05-04,1003.78,failure,withdrawal,2733,exceeded limit,canara bank,601802.0
+txn02535,cbb02,rs puram,coimbatore,2024-05-03,1921.65,failure,withdrawal,4614,network error,canara bank,632048.0
+txn02681,chb03,adyar,chennai,2024-05-06,3269.95,failure,transfer,9844,network error,canara bank,608195.0
+txn02256,chb05,tambaram,chennai,2024-05-05,4082.67,failure,deposit,5713,insufficient balance,canara bank,602464.0
+txn02021,cbb02,rs puram,coimbatore,2024-05-03,4625.69,failure,withdrawal,4667,insufficient balance,canara bank,628874.0
+txn02240,chb05,tambaram,chennai,2024-05-06,2655.76,failure,transfer,3183,network error,canara bank,637063.0
+txn02210,mdb04,simmakkal,madurai,2024-05-01,1987.9,failure,deposit,7444,network error,canara bank,602722.0
+txn02155,mdb05,tallakulam,madurai,2024-05-06,4195.04,failure,transfer,9981,network error,canara bank,614113.0
+txn02875,cbb02,rs puram,coimbatore,2024-05-06,4019.74,failure,transfer,7249,network error,canara bank,601998.0
+txn02676,cbb04,saibaba colony,coimbatore,2024-05-06,3748.61,failure,transfer,3732,exceeded limit,canara bank,616865.0
+txn02659,mdb03,thirunagar,madurai,2024-05-04,2585.66,failure,transfer,1134,insufficient balance,canara bank,630008.0
+txn02632,mdb04,simmakkal,madurai,2024-05-04,1833.74,failure,transfer,4079,technical error,canara bank,624207.0
+txn02264,chb03,adyar,chennai,2024-05-05,4612.53,failure,transfer,8000,insufficient balance,canara bank,638619.0
+txn02989,mdb02,k.k. nagar,madurai,2024-05-04,4302.28,failure,transfer,6382,exceeded limit,canara bank,616824.0
+txn02437,chb03,adyar,chennai,2024-05-05,3445.04,failure,transfer,2360,insufficient balance,canara bank,603117.0
+txn02109,cbb04,saibaba colony,coimbatore,2024-05-07,1423.61,failure,withdrawal,4348,invalid account,canara bank,611087.0
+txn02600,mdb05,tallakulam,madurai,2024-05-06,1431.57,failure,withdrawal,2462,technical error,canara bank,612249.0
+txn02075,cbb01,gandhipuram,coimbatore,2024-05-06,710.5,failure,deposit,9665,network error,canara bank,630239.0
+txn02398,mdb04,simmakkal,madurai,2024-05-01,4084.73,failure,deposit,4985,technical error,canara bank,616657.0
+txn02695,chb04,guindy,chennai,2024-05-05,4549.52,failure,withdrawal,8252,network error,canara bank,630180.0
+txn02658,mdb03,thirunagar,madurai,2024-05-03,4098.69,failure,withdrawal,1522,technical error,canara bank,611461.0
+txn02648,cbb04,saibaba colony,coimbatore,2024-05-06,3996.38,failure,withdrawal,5189,insufficient balance,canara bank,624932.0
+txn02682,mdb04,simmakkal,madurai,2024-05-04,1524.04,failure,deposit,3838,network error,canara bank,618377.0
+txn01954,chb02,velachery,chennai,2024-05-01,1224.49,failure,withdrawal,6095,network error,canara bank,618283.0
+txn02299,mdb01,anna nagar,madurai,2024-05-02,3460.37,failure,withdrawal,1017,network error,canara bank,640436.0
+txn02205,cbb01,gandhipuram,coimbatore,2024-05-07,3279.14,failure,withdrawal,4995,technical error,canara bank,617846.0
+txn02386,cbb03,peelamedu,coimbatore,2024-05-02,1988.01,failure,withdrawal,1866,exceeded limit,canara bank,635909.0
+txn02948,cbb04,saibaba colony,coimbatore,2024-05-03,4675.85,failure,deposit,7697,exceeded limit,canara bank,602904.0
+txn02370,chb01,t nagar,chennai,2024-05-05,3130.5,failure,withdrawal,7248,technical error,canara bank,641531.0
+txn02769,mdb02,k.k. nagar,madurai,2024-05-02,3800.84,failure,withdrawal,6122,invalid account,canara bank,600945.0
+txn02627,cbb04,saibaba colony,coimbatore,2024-05-05,4238.61,failure,transfer,1183,technical error,canara bank,612761.0
+txn02570,mdb05,tallakulam,madurai,2024-05-02,3487.98,failure,deposit,7780,insufficient balance,canara bank,631228.0
+txn02071,chb05,tambaram,chennai,2024-05-03,2436.39,failure,deposit,2093,exceeded limit,canara bank,618681.0
+txn02512,mdb03,thirunagar,madurai,2024-05-06,2715.03,failure,transfer,7036,invalid account,canara bank,639303.0
+txn02826,cbb02,rs puram,coimbatore,2024-05-01,4812.34,failure,withdrawal,7901,exceeded limit,canara bank,623246.0
+txn01989,mdb03,thirunagar,madurai,2024-05-07,3032.54,failure,transfer,2613,invalid account,canara bank,623743.0
+txn02138,cbb03,peelamedu,coimbatore,2024-05-02,1967.29,failure,transfer,7250,network error,canara bank,616586.0
+txn02090,mdb03,thirunagar,madurai,2024-05-06,1514.28,failure,deposit,7848,technical error,canara bank,637213.0
+txn02663,chb01,t nagar,chennai,2024-05-04,1119.68,failure,transfer,6753,insufficient balance,canara bank,623223.0
+txn02724,chb02,velachery,chennai,2024-05-02,3593.26,failure,transfer,5729,exceeded limit,canara bank,604512.0
+txn01975,chb04,guindy,chennai,2024-05-07,2491.18,failure,transfer,6841,insufficient balance,canara bank,628635.0
+txn02227,chb01,t nagar,chennai,2024-05-03,4797.02,failure,transfer,1071,insufficient balance,canara bank,628916.0
+txn01990,cbb02,rs puram,coimbatore,2024-05-04,4343.37,failure,transfer,1747,technical error,canara bank,630269.0
+txn02714,mdb01,anna nagar,madurai,2024-05-07,726.59,failure,withdrawal,1144,exceeded limit,canara bank,607481.0
+txn02753,cbb05,singanallur,coimbatore,2024-05-02,2037.86,failure,withdrawal,4840,technical error,canara bank,638404.0
+txn02133,mdb05,tallakulam,madurai,2024-05-06,3107.54,failure,withdrawal,4012,exceeded limit,canara bank,641376.0
+txn02356,cbb03,peelamedu,coimbatore,2024-05-06,2657.81,failure,transfer,1959,technical error,canara bank,616722.0
+txn02649,mdb04,simmakkal,madurai,2024-05-07,1437.25,failure,transfer,5979,invalid account,canara bank,624424.0
+txn02519,mdb04,simmakkal,madurai,2024-05-06,4533.49,failure,withdrawal,2096,network error,canara bank,601737.0
+txn02339,chb02,velachery,chennai,2024-05-04,2910.89,failure,withdrawal,2865,invalid account,canara bank,641143.0
+txn02206,cbb04,saibaba colony,coimbatore,2024-05-07,2243.69,failure,withdrawal,3167,exceeded limit,canara bank,611784.0
+txn02191,mdb01,anna nagar,madurai,2024-05-02,2811.84,failure,transfer,7542,invalid account,canara bank,641180.0
+txn02272,chb03,adyar,chennai,2024-05-04,3718.1,failure,transfer,9257,exceeded limit,canara bank,604209.0
+txn02938,mdb04,simmakkal,madurai,2024-05-01,2013.29,failure,withdrawal,3862,network error,canara bank,600176.0
+txn02073,mdb02,k.k. nagar,madurai,2024-05-02,2168.31,failure,deposit,9826,technical error,canara bank,611642.0
+txn02889,cbb04,saibaba colony,coimbatore,2024-05-06,4921.41,failure,transfer,4893,insufficient balance,canara bank,613501.0
+txn02176,chb04,guindy,chennai,2024-05-01,3909.06,failure,transfer,3938,insufficient balance,canara bank,609609.0
+txn02988,chb03,adyar,chennai,2024-05-01,2754.52,failure,transfer,4643,insufficient balance,canara bank,614824.0
+txn02856,cbb01,gandhipuram,coimbatore,2024-05-02,4870.07,failure,transfer,7145,invalid account,canara bank,623659.0
+txn02250,mdb05,tallakulam,madurai,2024-05-05,812.48,failure,transfer,4623,insufficient balance,canara bank,601931.0
+txn02608,chb05,tambaram,chennai,2024-05-01,3017.65,failure,withdrawal,5584,network error,canara bank,609388.0
+txn02522,chb01,t nagar,chennai,2024-05-06,1012.45,failure,withdrawal,9963,exceeded limit,canara bank,601576.0
+txn02701,mdb03,thirunagar,madurai,2024-05-01,1265.45,failure,withdrawal,9241,exceeded limit,canara bank,629661.0
+txn02713,cbb02,rs puram,coimbatore,2024-05-01,692.34,failure,withdrawal,3120,insufficient balance,canara bank,616842.0
+txn02269,mdb03,thirunagar,madurai,2024-05-05,4697.54,failure,deposit,5120,insufficient balance,canara bank,600268.0
+txn02853,chb03,adyar,chennai,2024-05-04,3976.01,failure,transfer,2286,invalid account,canara bank,613766.0
+txn02416,mdb05,tallakulam,madurai,2024-05-02,1832.16,failure,withdrawal,4872,technical error,canara bank,639874.0
+txn02189,chb05,tambaram,chennai,2024-05-03,4931.2,failure,deposit,9944,network error,canara bank,611680.0
+txn02671,mdb03,thirunagar,madurai,2024-05-03,1816.5,failure,deposit,5252,exceeded limit,canara bank,602686.0
+txn02062,chb05,tambaram,chennai,2024-05-02,4876.97,failure,withdrawal,8163,exceeded limit,canara bank,608846.0
+txn02941,chb01,t nagar,chennai,2024-05-01,1053.81,failure,withdrawal,5133,exceeded limit,canara bank,629810.0
+txn02725,cbb03,peelamedu,coimbatore,2024-05-07,2259.42,failure,withdrawal,3882,exceeded limit,canara bank,627805.0
+txn02116,chb05,tambaram,chennai,2024-05-07,2914.29,failure,deposit,9036,insufficient balance,canara bank,636822.0
+txn02295,cbb02,rs puram,coimbatore,2024-05-05,1709.27,failure,deposit,6940,exceeded limit,canara bank,639938.0
+txn02215,chb01,t nagar,chennai,2024-05-05,1680.32,failure,deposit,4277,exceeded limit,canara bank,624316.0
+txn02509,chb02,velachery,chennai,2024-05-02,2181.52,failure,deposit,9018,technical error,canara bank,631931.0
+txn02263,mdb05,tallakulam,madurai,2024-05-06,2679.82,failure,transfer,9874,invalid account,canara bank,639201.0
+txn02586,chb01,t nagar,chennai,2024-05-04,4583.3,failure,deposit,2199,insufficient balance,canara bank,609278.0
+txn02306,mdb02,k.k. nagar,madurai,2024-05-07,3228.68,failure,transfer,9519,exceeded limit,canara bank,633706.0
+txn02953,mdb03,thirunagar,madurai,2024-05-06,1937.04,failure,withdrawal,1683,technical error,canara bank,614206.0
+txn02943,cbb02,rs puram,coimbatore,2024-05-02,2085.79,failure,withdrawal,8672,technical error,canara bank,622071.0
+txn02931,mdb05,tallakulam,madurai,2024-05-01,3232.17,failure,deposit,8472,exceeded limit,canara bank,624553.0
+txn02879,chb01,t nagar,chennai,2024-05-06,3474.54,failure,withdrawal,6564,technical error,canara bank,632332.0
+txn02042,cbb03,peelamedu,coimbatore,2024-05-01,1227.62,failure,transfer,1942,exceeded limit,canara bank,621846.0
+txn02203,cbb03,peelamedu,coimbatore,2024-05-03,3700.26,failure,withdrawal,8868,insufficient balance,canara bank,634854.0
+txn02738,mdb05,tallakulam,madurai,2024-05-07,4950.06,failure,withdrawal,1875,exceeded limit,canara bank,621933.0
+txn02362,chb02,velachery,chennai,2024-05-03,3859.72,failure,deposit,5552,network error,canara bank,602102.0
+txn02464,cbb05,singanallur,coimbatore,2024-05-06,4800.74,failure,withdrawal,3949,invalid account,canara bank,602656.0
+txn02457,mdb05,tallakulam,madurai,2024-05-03,2842.68,failure,withdrawal,7978,exceeded limit,canara bank,639618.0
+txn02881,mdb03,thirunagar,madurai,2024-05-01,1828.59,failure,deposit,1732,invalid account,canara bank,633537.0
+txn02642,mdb01,anna nagar,madurai,2024-05-04,3477.05,failure,transfer,6646,network error,canara bank,611873.0
+txn02761,mdb04,simmakkal,madurai,2024-05-05,3476.65,failure,withdrawal,1755,technical error,canara bank,628092.0
+txn02684,chb03,adyar,chennai,2024-05-06,1185.14,failure,deposit,7050,technical error,canara bank,615879.0
+txn02919,chb01,t nagar,chennai,2024-05-07,4344.5,failure,deposit,8186,network error,canara bank,624559.0
+txn02556,chb01,t nagar,chennai,2024-05-05,4934.17,failure,withdrawal,5586,technical error,canara bank,603408.0
+txn02188,cbb01,gandhipuram,coimbatore,2024-05-05,1606.23,failure,deposit,6103,invalid account,canara bank,620432.0
+txn02965,cbb03,peelamedu,coimbatore,2024-05-05,1520.2,failure,withdrawal,4686,invalid account,canara bank,631444.0
+txn02199,chb02,velachery,chennai,2024-05-06,4352.71,failure,deposit,7386,exceeded limit,canara bank,606571.0
+txn02050,mdb01,anna nagar,madurai,2024-05-05,2415.76,failure,withdrawal,4744,insufficient balance,canara bank,600296.0
+txn01955,chb02,velachery,chennai,2024-05-02,4384.35,failure,deposit,7577,insufficient balance,canara bank,620379.0
+txn02693,mdb01,anna nagar,madurai,2024-05-07,2423.12,failure,transfer,2366,insufficient balance,canara bank,632993.0
+txn02841,chb03,adyar,chennai,2024-05-06,1099.25,failure,withdrawal,6621,technical error,canara bank,638416.0
+txn02410,mdb03,thirunagar,madurai,2024-05-06,1549.96,failure,deposit,7680,network error,canara bank,641537.0
+txn02319,chb05,tambaram,chennai,2024-05-05,3309.42,failure,deposit,8412,network error,canara bank,630329.0
+txn02332,cbb04,saibaba colony,coimbatore,2024-05-05,3263.83,failure,transfer,4691,network error,canara bank,622173.0
+txn02794,mdb05,tallakulam,madurai,2024-05-03,1732.86,failure,transfer,9333,exceeded limit,canara bank,613912.0
+txn02465,mdb05,tallakulam,madurai,2024-05-04,4001.13,failure,deposit,1084,insufficient balance,canara bank,641824.0
+txn02412,cbb05,singanallur,coimbatore,2024-05-02,1840.15,failure,withdrawal,8779,insufficient balance,canara bank,610267.0
+txn02763,mdb03,thirunagar,madurai,2024-05-06,644.5,failure,transfer,3880,insufficient balance,canara bank,630206.0
+txn02430,chb02,velachery,chennai,2024-05-03,1493.03,failure,deposit,1538,insufficient balance,canara bank,625535.0
+txn02281,mdb04,simmakkal,madurai,2024-05-06,2779.55,failure,withdrawal,6415,exceeded limit,canara bank,634259.0
+txn02088,cbb02,rs puram,coimbatore,2024-05-02,1709.01,failure,withdrawal,6492,network error,canara bank,632833.0
+txn02101,cbb04,saibaba colony,coimbatore,2024-05-06,1251.22,failure,deposit,1181,technical error,canara bank,620190.0
+txn02033,mdb01,anna nagar,madurai,2024-05-02,1337.77,failure,deposit,7085,invalid account,canara bank,615611.0
+txn02927,chb01,t nagar,chennai,2024-05-06,2737.07,failure,withdrawal,6243,technical error,canara bank,609094.0
+txn02172,mdb03,thirunagar,madurai,2024-05-07,4309.81,failure,withdrawal,5061,invalid account,canara bank,632162.0
+txn02260,chb01,t nagar,chennai,2024-05-02,3679.65,failure,deposit,9328,invalid account,canara bank,641570.0
+txn02460,cbb04,saibaba colony,coimbatore,2024-05-02,2145.29,failure,transfer,5853,network error,canara bank,612074.0
+txn02326,chb02,velachery,chennai,2024-05-05,3411.68,failure,transfer,9568,exceeded limit,canara bank,606442.0
+txn02384,chb04,guindy,chennai,2024-05-04,2906.87,failure,deposit,2702,insufficient balance,canara bank,631843.0
+txn02626,chb04,guindy,chennai,2024-05-04,1273.54,failure,deposit,4015,exceeded limit,canara bank,628329.0
+txn02538,mdb03,thirunagar,madurai,2024-05-06,2154.24,failure,deposit,1355,invalid account,canara bank,626660.0
+txn02803,mdb02,k.k. nagar,madurai,2024-05-03,3248.13,failure,transfer,8126,technical error,canara bank,633891.0
+txn02186,cbb03,peelamedu,coimbatore,2024-05-03,3732.41,failure,transfer,7429,invalid account,canara bank,616311.0
+txn02614,cbb05,singanallur,coimbatore,2024-05-05,3901.99,failure,transfer,1828,technical error,canara bank,615081.0
+txn02615,chb03,adyar,chennai,2024-05-06,1492.81,failure,withdrawal,7834,exceeded limit,canara bank,605802.0
+txn02829,chb01,t nagar,chennai,2024-05-06,3729.32,failure,transfer,5550,insufficient balance,canara bank,626807.0
+txn02411,mdb05,tallakulam,madurai,2024-05-03,3865.72,failure,deposit,5745,network error,canara bank,625445.0
+txn02040,chb04,guindy,chennai,2024-05-02,3164.43,failure,deposit,1118,technical error,canara bank,601747.0
+txn02850,cbb02,rs puram,coimbatore,2024-05-07,2108.07,failure,deposit,9802,exceeded limit,canara bank,627107.0
+txn02610,cbb04,saibaba colony,coimbatore,2024-05-07,3449.55,failure,deposit,7248,technical error,canara bank,613158.0
+txn02230,cbb01,gandhipuram,coimbatore,2024-05-02,1603.83,failure,withdrawal,6039,exceeded limit,canara bank,637170.0
+txn02910,chb01,t nagar,chennai,2024-05-07,3276.93,failure,withdrawal,7953,invalid account,canara bank,621932.0
+txn02870,cbb03,peelamedu,coimbatore,2024-05-02,747.84,failure,withdrawal,2344,technical error,canara bank,606749.0
+txn02710,mdb04,simmakkal,madurai,2024-05-02,2369.01,failure,deposit,4892,technical error,canara bank,637051.0
+txn02515,cbb04,saibaba colony,coimbatore,2024-05-04,4622.22,failure,transfer,2236,invalid account,canara bank,621726.0
+txn02216,mdb04,simmakkal,madurai,2024-05-06,3188.55,failure,deposit,2836,technical error,canara bank,612234.0
+txn02905,chb04,guindy,chennai,2024-05-03,3803.3,failure,transfer,6332,technical error,canara bank,631126.0
+txn02284,mdb04,simmakkal,madurai,2024-05-03,2844.59,failure,withdrawal,9699,network error,canara bank,619083.0
+txn02087,chb03,adyar,chennai,2024-05-05,1486.37,failure,withdrawal,5368,invalid account,canara bank,605097.0
+txn02745,cbb02,rs puram,coimbatore,2024-05-06,4400.3,failure,withdrawal,2693,exceeded limit,canara bank,639105.0
+txn02564,cbb03,peelamedu,coimbatore,2024-05-05,724.72,failure,deposit,1196,insufficient balance,canara bank,626432.0
+txn02589,mdb04,simmakkal,madurai,2024-05-01,3550.35,failure,transfer,8778,insufficient balance,canara bank,624655.0
+txn02124,mdb03,thirunagar,madurai,2024-05-06,4038.57,failure,deposit,3403,insufficient balance,canara bank,630534.0
+txn02951,cbb01,gandhipuram,coimbatore,2024-05-04,957.93,failure,withdrawal,8284,insufficient balance,canara bank,616678.0
+txn02233,chb05,tambaram,chennai,2024-05-06,859.78,failure,transfer,9596,technical error,canara bank,634834.0
+txn02956,cbb05,singanallur,coimbatore,2024-05-06,640.58,failure,deposit,2718,exceeded limit,canara bank,602312.0
+txn02036,chb02,velachery,chennai,2024-05-03,802.56,failure,deposit,7131,invalid account,canara bank,622548.0
+txn02900,chb03,adyar,chennai,2024-05-07,3485.9,failure,transfer,9762,network error,canara bank,610411.0
+txn02418,cbb05,singanallur,coimbatore,2024-05-06,1385.3,failure,withdrawal,2448,insufficient balance,canara bank,616047.0
+txn02343,cbb01,gandhipuram,coimbatore,2024-05-07,4953.54,failure,withdrawal,8000,invalid account,canara bank,601419.0
+txn02111,mdb03,thirunagar,madurai,2024-05-07,4974.16,failure,withdrawal,1358,invalid account,canara bank,637422.0
+txn02096,mdb04,simmakkal,madurai,2024-05-06,922.38,failure,deposit,8464,technical error,canara bank,634246.0
+txn02857,mdb01,anna nagar,madurai,2024-05-04,2573.22,failure,transfer,3913,network error,canara bank,635261.0
+txn02053,cbb03,peelamedu,coimbatore,2024-05-01,1930.08,failure,withdrawal,4438,network error,canara bank,606578.0
+txn02129,mdb02,k.k. nagar,madurai,2024-05-04,3338.65,failure,deposit,8311,insufficient balance,canara bank,613343.0
+txn02898,mdb04,simmakkal,madurai,2024-05-04,535.22,failure,transfer,5191,technical error,canara bank,633887.0
+txn02157,cbb05,singanallur,coimbatore,2024-05-02,2174.76,failure,withdrawal,1202,invalid account,canara bank,607958.0
+txn02791,chb02,velachery,chennai,2024-05-05,2421.14,failure,transfer,7913,invalid account,canara bank,621415.0
+txn02926,mdb01,anna nagar,madurai,2024-05-02,4915.02,failure,withdrawal,6258,network error,canara bank,636509.0
+txn02654,cbb05,singanallur,coimbatore,2024-05-03,1581.52,failure,deposit,8548,exceeded limit,canara bank,623916.0
+txn02815,mdb04,simmakkal,madurai,2024-05-07,2636.82,failure,deposit,7345,invalid account,canara bank,627195.0
+txn01992,mdb03,thirunagar,madurai,2024-05-07,1760.83,failure,withdrawal,8676,network error,canara bank,602404.0
+txn02959,mdb02,k.k. nagar,madurai,2024-05-01,3871.68,failure,withdrawal,4872,technical error,canara bank,638364.0
+txn02266,chb04,guindy,chennai,2024-05-07,4425.77,failure,withdrawal,4546,network error,canara bank,608637.0
+txn02656,mdb04,simmakkal,madurai,2024-05-07,4118.82,failure,transfer,4578,invalid account,canara bank,619712.0
+txn02718,cbb04,saibaba colony,coimbatore,2024-05-05,2626.75,failure,transfer,7478,invalid account,canara bank,622180.0
+txn02328,cbb05,singanallur,coimbatore,2024-05-01,4428.84,failure,deposit,8449,technical error,canara bank,608648.0
+txn02694,cbb02,rs puram,coimbatore,2024-05-07,3283.49,failure,deposit,2604,technical error,canara bank,636042.0
+txn02314,cbb02,rs puram,coimbatore,2024-05-02,3441.94,failure,deposit,8377,technical error,canara bank,632938.0
+txn02866,cbb05,singanallur,coimbatore,2024-05-01,3522.73,failure,deposit,1777,technical error,canara bank,626691.0
+txn02134,cbb01,gandhipuram,coimbatore,2024-05-01,2385.27,failure,deposit,7930,technical error,canara bank,607362.0
+txn02595,mdb01,anna nagar,madurai,2024-05-04,595.63,failure,transfer,5661,exceeded limit,canara bank,615942.0
+txn01980,chb05,tambaram,chennai,2024-05-02,1798.51,failure,withdrawal,9247,insufficient balance,canara bank,614444.0
+txn02840,cbb04,saibaba colony,coimbatore,2024-05-06,3429.04,failure,withdrawal,9971,network error,canara bank,640247.0
+txn02872,chb01,t nagar,chennai,2024-05-01,4528.27,failure,transfer,9625,network error,canara bank,610489.0
+txn02702,cbb01,gandhipuram,coimbatore,2024-05-02,3418.58,failure,deposit,5459,insufficient balance,canara bank,639623.0
+txn02699,cbb03,peelamedu,coimbatore,2024-05-01,546.59,failure,deposit,1096,network error,canara bank,624726.0
+txn02917,cbb05,singanallur,coimbatore,2024-05-01,3054.77,failure,transfer,5162,exceeded limit,canara bank,603232.0
+txn02598,chb05,tambaram,chennai,2024-05-01,1105.48,failure,withdrawal,4423,invalid account,canara bank,630719.0
+txn02237,chb03,adyar,chennai,2024-05-06,2609.18,failure,deposit,4979,exceeded limit,canara bank,631068.0
+txn02404,mdb03,thirunagar,madurai,2024-05-02,3298.24,failure,deposit,6836,exceeded limit,canara bank,606037.0
+txn02074,chb02,velachery,chennai,2024-05-03,4263.59,failure,deposit,2422,technical error,canara bank,614562.0
+txn02255,cbb01,gandhipuram,coimbatore,2024-05-02,2203.03,failure,deposit,6489,technical error,canara bank,620526.0
+txn02433,chb02,velachery,chennai,2024-05-03,4874.28,failure,deposit,8802,exceeded limit,canara bank,631591.0
+txn02580,mdb03,thirunagar,madurai,2024-05-07,3823.94,failure,deposit,3696,invalid account,canara bank,608244.0
+txn02868,mdb04,simmakkal,madurai,2024-05-02,3871.91,failure,withdrawal,6333,invalid account,canara bank,607844.0
+txn02778,chb02,velachery,chennai,2024-05-03,2224.99,failure,transfer,5377,network error,canara bank,637874.0
+txn02517,mdb03,thirunagar,madurai,2024-05-07,2087.35,failure,transfer,2710,insufficient balance,canara bank,629581.0
+txn02765,chb01,t nagar,chennai,2024-05-02,1471.07,failure,transfer,8708,network error,canara bank,628102.0
+txn02510,chb05,tambaram,chennai,2024-05-01,509.28,failure,transfer,1355,network error,canara bank,638127.0
+txn02550,chb04,guindy,chennai,2024-05-06,1488.69,failure,deposit,9523,exceeded limit,canara bank,613138.0
+txn02990,mdb04,simmakkal,madurai,2024-05-04,1843.3,failure,transfer,2365,exceeded limit,canara bank,602426.0
+txn02836,mdb04,simmakkal,madurai,2024-05-07,1914.61,failure,deposit,2421,technical error,canara bank,606672.0
+txn02376,cbb04,saibaba colony,coimbatore,2024-05-07,1585.4,failure,deposit,2083,invalid account,canara bank,623672.0
+txn02468,mdb01,anna nagar,madurai,2024-05-01,2080.28,failure,transfer,3643,network error,canara bank,615032.0
+txn02542,mdb04,simmakkal,madurai,2024-05-05,3999.32,failure,withdrawal,5412,network error,canara bank,604781.0
+txn02342,cbb03,peelamedu,coimbatore,2024-05-04,2805.7,failure,withdrawal,7750,exceeded limit,canara bank,637651.0
+txn01995,cbb01,gandhipuram,coimbatore,2024-05-02,939.66,failure,withdrawal,6028,network error,canara bank,634740.0
+txn02705,mdb01,anna nagar,madurai,2024-05-01,839.83,failure,deposit,3165,exceeded limit,canara bank,611307.0
+txn02620,chb05,tambaram,chennai,2024-05-04,2737.38,failure,deposit,8337,technical error,canara bank,633020.0
+txn02308,chb03,adyar,chennai,2024-05-06,2968.86,failure,transfer,5586,network error,canara bank,630098.0
+txn02067,cbb02,rs puram,coimbatore,2024-05-05,2350.35,failure,transfer,5127,network error,canara bank,600834.0
+txn02322,mdb02,k.k. nagar,madurai,2024-05-05,1686.09,failure,transfer,8262,exceeded limit,canara bank,613459.0
+txn02337,cbb05,singanallur,coimbatore,2024-05-05,1441.56,failure,deposit,6101,insufficient balance,canara bank,620223.0
+txn02986,cbb04,saibaba colony,coimbatore,2024-05-06,4272.52,failure,transfer,7816,network error,canara bank,606148.0
+txn02847,chb02,velachery,chennai,2024-05-05,3158.51,failure,deposit,5150,exceeded limit,canara bank,632791.0
+txn02525,cbb05,singanallur,coimbatore,2024-05-06,1780.18,failure,transfer,7023,exceeded limit,canara bank,614462.0
+txn02261,cbb03,peelamedu,coimbatore,2024-05-04,3780.18,failure,withdrawal,8337,invalid account,canara bank,620648.0
+txn02885,mdb05,tallakulam,madurai,2024-05-03,687.46,failure,transfer,1381,invalid account,canara bank,605468.0
+txn02703,mdb02,k.k. nagar,madurai,2024-05-03,2336.39,failure,transfer,8524,invalid account,canara bank,619504.0
+txn02971,chb01,t nagar,chennai,2024-05-07,1068.15,failure,deposit,4213,network error,canara bank,604952.0
+txn02860,cbb02,rs puram,coimbatore,2024-05-06,3230.15,failure,deposit,6107,network error,canara bank,606737.0
+txn02692,chb04,guindy,chennai,2024-05-07,4819.75,failure,deposit,8404,network error,canara bank,610599.0
+txn01960,mdb04,simmakkal,madurai,2024-05-06,945.06,failure,withdrawal,7798,insufficient balance,canara bank,606879.0
+txn02593,cbb02,rs puram,coimbatore,2024-05-06,2209.38,failure,transfer,6972,network error,canara bank,630075.0
+txn02546,cbb01,gandhipuram,coimbatore,2024-05-04,609.02,failure,deposit,9678,network error,canara bank,606135.0
+txn02947,cbb05,singanallur,coimbatore,2024-05-01,4252.95,failure,transfer,6636,exceeded limit,canara bank,639178.0
+txn02363,chb02,velachery,chennai,2024-05-02,3560.22,failure,deposit,5401,technical error,canara bank,638561.0
+txn02622,mdb02,k.k. nagar,madurai,2024-05-04,4994.14,failure,transfer,6832,insufficient balance,canara bank,606806.0
+txn02405,cbb02,rs puram,coimbatore,2024-05-04,4918.26,failure,withdrawal,7077,invalid account,canara bank,636879.0
+txn02057,chb05,tambaram,chennai,2024-05-02,3811.79,failure,deposit,5956,technical error,canara bank,631661.0
+txn02688,cbb05,singanallur,coimbatore,2024-05-01,3868.19,failure,transfer,5239,network error,canara bank,605576.0
+txn02257,mdb04,simmakkal,madurai,2024-05-07,3686.27,failure,transfer,1878,network error,canara bank,632510.0
+txn02861,mdb05,tallakulam,madurai,2024-05-03,3084.05,failure,transfer,4967,insufficient balance,canara bank,638511.0
+txn02568,cbb01,gandhipuram,coimbatore,2024-05-01,2146.16,failure,withdrawal,7951,technical error,canara bank,627683.0
+txn02606,chb01,t nagar,chennai,2024-05-06,4462.61,failure,transfer,3314,insufficient balance,canara bank,635790.0
+txn02131,cbb02,rs puram,coimbatore,2024-05-05,1245.22,failure,withdrawal,3848,invalid account,canara bank,619605.0
+txn02634,chb04,guindy,chennai,2024-05-03,2672.81,failure,transfer,4087,technical error,canara bank,604586.0
+txn02726,chb02,velachery,chennai,2024-05-01,1835.86,failure,transfer,2809,insufficient balance,canara bank,629956.0
+txn02783,cbb02,rs puram,coimbatore,2024-05-03,3441.67,failure,deposit,5817,insufficient balance,canara bank,624809.0
+txn02360,cbb02,rs puram,coimbatore,2024-05-01,3010.24,failure,deposit,7809,exceeded limit,canara bank,629650.0
+txn02666,chb04,guindy,chennai,2024-05-05,1691.7,failure,transfer,4809,network error,canara bank,632210.0
+txn02280,cbb04,saibaba colony,coimbatore,2024-05-02,533.34,failure,withdrawal,6286,invalid account,canara bank,620884.0
+txn02106,cbb01,gandhipuram,coimbatore,2024-05-05,4698.57,failure,deposit,4004,exceeded limit,canara bank,626891.0
+txn02091,chb03,adyar,chennai,2024-05-06,2604.25,failure,deposit,9449,exceeded limit,canara bank,617448.0
+txn02438,cbb02,rs puram,coimbatore,2024-05-01,1177.35,failure,transfer,7835,exceeded limit,canara bank,607804.0
+txn02103,chb03,adyar,chennai,2024-05-04,3888.04,failure,withdrawal,1545,invalid account,canara bank,602393.0
+txn01957,mdb05,tallakulam,madurai,2024-05-04,737.92,failure,deposit,4319,network error,canara bank,604095.0
+txn02808,cbb01,gandhipuram,coimbatore,2024-05-07,3571.2,failure,deposit,9829,invalid account,canara bank,632146.0
+txn02368,chb04,guindy,chennai,2024-05-03,4331.6,failure,withdrawal,8115,invalid account,canara bank,609183.0
+txn02136,chb01,t nagar,chennai,2024-05-05,648.92,failure,deposit,1274,network error,canara bank,640954.0
+txn01952,mdb01,anna nagar,madurai,2024-05-05,2825.68,failure,transfer,7877,technical error,canara bank,601521.0
